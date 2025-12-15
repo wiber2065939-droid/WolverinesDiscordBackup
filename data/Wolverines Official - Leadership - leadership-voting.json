@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "650086260253130763",
+    "name": "Wolverines Official",
+    "iconUrl": "https://cdn.discordapp.com/icons/650086260253130763/248df5ee4812c5d6b78c6e10e4d9ebda.png?size=512"
+  },
+  "channel": {
+    "id": "placeholder",
+    "type": "GuildTextChat",
+    "categoryId": "placeholder",
+    "category": "Leadership",
+    "name": "leadership-voting",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-12-15T00:00:00+08:00",
+  "messages": [],
+  "messageCount": 0
+}
