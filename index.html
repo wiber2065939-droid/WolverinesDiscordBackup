@@ -1,0 +1,1131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wolverines Official - Discord Archive</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background-color: #313338;
+            color: #dbdee1;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .app-container {
+            display: flex;
+            height: 100vh;
+        }
+
+        /* Server sidebar (leftmost) */
+        .server-sidebar {
+            width: 72px;
+            background-color: #1e1f22;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-top: 12px;
+            flex-shrink: 0;
+        }
+
+        .server-icon {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            background-color: #5865f2;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: border-radius 0.2s;
+            overflow: hidden;
+        }
+
+        .server-icon:hover {
+            border-radius: 16px;
+        }
+
+        .server-icon img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* Channel sidebar */
+        .channel-sidebar {
+            width: 240px;
+            background-color: #2b2d31;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+        }
+
+        .server-header {
+            height: 48px;
+            padding: 0 16px;
+            display: flex;
+            align-items: center;
+            font-weight: 600;
+            font-size: 15px;
+            border-bottom: 1px solid #1e1f22;
+            box-shadow: 0 1px 0 rgba(0,0,0,0.2);
+        }
+
+        .channels-container {
+            flex: 1;
+            overflow-y: auto;
+            padding: 8px 0;
+        }
+
+        .category {
+            padding: 16px 8px 0 8px;
+        }
+
+        .category-header {
+            display: flex;
+            align-items: center;
+            padding: 0 8px;
+            height: 24px;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #949ba4;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .category-header:hover {
+            color: #dbdee1;
+        }
+
+        .category-arrow {
+            margin-right: 4px;
+            font-size: 10px;
+            transition: transform 0.1s;
+        }
+
+        .category.collapsed .category-arrow {
+            transform: rotate(-90deg);
+        }
+
+        .category.collapsed .channel-list {
+            display: none;
+        }
+
+        .channel-list {
+            margin-top: 4px;
+        }
+
+        .channel {
+            display: flex;
+            align-items: center;
+            padding: 6px 8px;
+            margin: 1px 8px;
+            border-radius: 4px;
+            cursor: pointer;
+            color: #949ba4;
+            font-size: 15px;
+        }
+
+        .channel:hover {
+            background-color: #35373c;
+            color: #dbdee1;
+        }
+
+        .channel.active {
+            background-color: #404249;
+            color: #f2f3f5;
+        }
+
+        .channel-hash {
+            margin-right: 6px;
+            font-size: 18px;
+            font-weight: 400;
+            color: #80848e;
+        }
+
+        .channel.active .channel-hash {
+            color: #dbdee1;
+        }
+
+        /* Main content area */
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            min-width: 0;
+        }
+
+        .channel-header {
+            height: 48px;
+            padding: 0 16px;
+            display: flex;
+            align-items: center;
+            border-bottom: 1px solid #1e1f22;
+            box-shadow: 0 1px 0 rgba(0,0,0,0.2);
+            flex-shrink: 0;
+        }
+
+        .channel-header-name {
+            display: flex;
+            align-items: center;
+            font-weight: 600;
+            font-size: 15px;
+        }
+
+        .channel-header-hash {
+            color: #80848e;
+            margin-right: 8px;
+            font-size: 22px;
+        }
+
+        /* Messages area */
+        .messages-container {
+            flex: 1;
+            overflow-y: auto;
+            padding: 16px 0;
+        }
+
+        .message-group {
+            padding: 2px 16px;
+            margin-top: 16px;
+        }
+
+        .message-group:first-child {
+            margin-top: 0;
+        }
+
+        .message-group:hover {
+            background-color: #2e3035;
+        }
+
+        .message-header {
+            display: flex;
+            align-items: baseline;
+        }
+
+        .message-avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            margin-right: 16px;
+            flex-shrink: 0;
+            cursor: pointer;
+            float: left;
+        }
+
+        .message-avatar img {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+        .message-content-wrapper {
+            min-width: 0;
+        }
+
+        .message-author {
+            font-weight: 500;
+            font-size: 15px;
+            cursor: pointer;
+        }
+
+        .message-author:hover {
+            text-decoration: underline;
+        }
+
+        .message-timestamp {
+            font-size: 12px;
+            color: #949ba4;
+            margin-left: 8px;
+        }
+
+        .message-content {
+            color: #dbdee1;
+            font-size: 15px;
+            line-height: 1.375;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            margin-top: 2px;
+        }
+
+        .message-content code {
+            background-color: #1e1f22;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: 'Consolas', 'Monaco', monospace;
+            font-size: 14px;
+        }
+
+        .message-content pre {
+            background-color: #1e1f22;
+            border-radius: 4px;
+            padding: 8px;
+            margin: 4px 0;
+            overflow-x: auto;
+        }
+
+        .message-content pre code {
+            background: none;
+            padding: 0;
+        }
+
+        /* Bot tag */
+        .bot-tag {
+            background-color: #5865f2;
+            color: white;
+            font-size: 10px;
+            padding: 1px 4px;
+            border-radius: 3px;
+            margin-left: 4px;
+            font-weight: 500;
+            text-transform: uppercase;
+            vertical-align: middle;
+        }
+
+        /* Attachments */
+        .attachments {
+            margin-top: 8px;
+        }
+
+        .attachment {
+            max-width: 400px;
+            margin: 4px 0;
+        }
+
+        .attachment img {
+            max-width: 100%;
+            max-height: 300px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .attachment-file {
+            display: flex;
+            align-items: center;
+            background-color: #2b2d31;
+            border: 1px solid #1e1f22;
+            border-radius: 4px;
+            padding: 10px;
+            max-width: 400px;
+        }
+
+        .attachment-file-icon {
+            font-size: 24px;
+            margin-right: 8px;
+        }
+
+        .attachment-file-name {
+            color: #00a8fc;
+            text-decoration: none;
+        }
+
+        .attachment-file-name:hover {
+            text-decoration: underline;
+        }
+
+        /* Embeds */
+        .embed {
+            display: flex;
+            max-width: 520px;
+            margin-top: 8px;
+            border-radius: 4px;
+            background-color: #2b2d31;
+            overflow: hidden;
+        }
+
+        .embed-color-bar {
+            width: 4px;
+            flex-shrink: 0;
+        }
+
+        .embed-content {
+            padding: 8px 16px 16px 12px;
+            flex: 1;
+        }
+
+        .embed-title {
+            font-weight: 600;
+            font-size: 15px;
+            color: #00a8fc;
+            margin-bottom: 4px;
+        }
+
+        .embed-description {
+            font-size: 14px;
+            color: #dbdee1;
+            white-space: pre-wrap;
+        }
+
+        .embed-footer {
+            font-size: 12px;
+            color: #949ba4;
+            margin-top: 8px;
+        }
+
+        /* Reactions */
+        .reactions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+            margin-top: 8px;
+        }
+
+        .reaction {
+            display: flex;
+            align-items: center;
+            background-color: #2b2d31;
+            border: 1px solid #1e1f22;
+            border-radius: 8px;
+            padding: 2px 8px;
+            font-size: 14px;
+        }
+
+        .reaction-emoji {
+            margin-right: 4px;
+        }
+
+        .reaction-emoji img {
+            width: 16px;
+            height: 16px;
+            vertical-align: middle;
+        }
+
+        .reaction-count {
+            color: #b5bac1;
+            font-size: 14px;
+        }
+
+        /* Empty state */
+        .empty-state {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            color: #949ba4;
+        }
+
+        .empty-state-icon {
+            font-size: 64px;
+            margin-bottom: 16px;
+        }
+
+        .empty-state-text {
+            font-size: 16px;
+        }
+
+        /* Loading state */
+        .loading {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            color: #949ba4;
+        }
+
+        /* Date divider */
+        .date-divider {
+            display: flex;
+            align-items: center;
+            margin: 16px 16px 8px 16px;
+        }
+
+        .date-divider-line {
+            flex: 1;
+            height: 1px;
+            background-color: #3f4147;
+        }
+
+        .date-divider-text {
+            padding: 0 8px;
+            font-size: 12px;
+            font-weight: 600;
+            color: #949ba4;
+        }
+
+        /* Search box */
+        .search-container {
+            padding: 8px 8px 16px 8px;
+            border-bottom: 1px solid #1e1f22;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 6px 8px;
+            background-color: #1e1f22;
+            border: none;
+            border-radius: 4px;
+            color: #dbdee1;
+            font-size: 14px;
+        }
+
+        .search-input::placeholder {
+            color: #949ba4;
+        }
+
+        .search-input:focus {
+            outline: none;
+        }
+
+        /* Scrollbar styling */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #2b2d31;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #1a1b1e;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #18191c;
+        }
+
+        /* Archive banner */
+        .archive-banner {
+            background-color: #5865f2;
+            color: white;
+            padding: 8px 16px;
+            text-align: center;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Server sidebar -->
+        <div class="server-sidebar">
+            <div class="server-icon" id="serverIcon">
+                <img src="" alt="Server Icon" id="serverIconImg">
+            </div>
+        </div>
+
+        <!-- Channel sidebar -->
+        <div class="channel-sidebar">
+            <div class="server-header" id="serverName">Loading...</div>
+            <div class="search-container">
+                <input type="text" class="search-input" placeholder="Search messages..." id="searchInput">
+            </div>
+            <div class="channels-container" id="channelsContainer">
+                <!-- Channels will be dynamically inserted here -->
+            </div>
+        </div>
+
+        <!-- Main content -->
+        <div class="main-content">
+            <div class="archive-banner">
+                📁 Discord Archive - Read Only
+            </div>
+            <div class="channel-header">
+                <div class="channel-header-name">
+                    <span class="channel-header-hash">#</span>
+                    <span id="currentChannelName">Select a channel</span>
+                </div>
+            </div>
+            <div class="messages-container" id="messagesContainer">
+                <div class="empty-state">
+                    <div class="empty-state-icon">📚</div>
+                    <div class="empty-state-text">Select a channel to view archived messages</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Configuration - Define your server structure here
+        const serverConfig = {
+            name: "Wolverines Official",
+            iconUrl: "https://cdn.discordapp.com/icons/650086260253130763/248df5ee4812c5d6b78c6e10e4d9ebda.png?size=512",
+            categories: [
+    {
+        name: "Information",
+        channels: [
+            { name: "leadership-directory", file: "data/Wolverines Official - Information - leadership-directory.json" },
+            { name: "announcements", file: "data/Wolverines Official - Information - announcements.json" },
+            { name: "war-orders", file: "data/Wolverines Official - Information - war-orders.json" },
+            { name: "wolverine-events", file: "data/Wolverines Official - Information - wolverine-events.json" },
+            { name: "wolverine-polls", file: "data/Wolverines Official - Information - wolverine-polls.json" },
+            { name: "bot-guide", file: "data/Wolverines Official - Information - bot-guide.json" },
+        ]
+    },
+    {
+        name: "Public Area",
+        channels: [
+            { name: "lobby", file: "data/Wolverines Official - Public Area - lobby.json" },
+            { name: "public-chat", file: "data/Wolverines Official - Public Area - public-chat.json" },
+            { name: "food", file: "data/Wolverines Official - Public Area - food.json" },
+            { name: "sports", file: "data/Wolverines Official - Public Area - sports.json" },
+            { name: "gambling", file: "data/Wolverines Official - Public Area - gambling.json" },
+            { name: "memes", file: "data/Wolverines Official - Public Area - memes.json" },
+            { name: "games", file: "data/Wolverines Official - Public Area - games.json" },
+            { name: "music", file: "data/Wolverines Official - Public Area - music.json" },
+            { name: "racing", file: "data/Wolverines Official - Public Area - racing.json" },
+            { name: "revives-external", file: "data/Wolverines Official - Public Area - revives-external.json" },
+        ]
+    },
+    {
+        name: "Verified",
+        channels: [
+            { name: "wolverine-lounge", file: "data/Wolverines Official - Verified - wolverine-lounge.json" },
+            { name: "assist", file: "data/Wolverines Official - Verified - assist.json" },
+            { name: "faction-art", file: "data/Wolverines Official - Verified - faction-art.json" },
+            { name: "scripts", file: "data/Wolverines Official - Verified - scripts.json" },
+            { name: "real-life", file: "data/Wolverines Official - Verified - real-life.json" },
+            { name: "nsfw", file: "data/Wolverines Official - Verified - nsfw.json" },
+            { name: "stocks", file: "data/Wolverines Official - Verified - stocks.json" },
+        ]
+    },
+    {
+        name: "War Hub",
+        channels: [
+            { name: "friendly-displays", file: "data/Wolverines Official - War Hub - friendly-displays.json" },
+            { name: "commands", file: "data/Wolverines Official - War Hub - commands.json" },
+            { name: "halloween-chain-list", file: "data/Wolverines Official - War Hub - halloween-chain-list.json" },
+        ]
+    },
+    {
+        name: "TW War Hub",
+        channels: [
+            { name: "tw-oc-payouts", file: "data/Wolverines Official - TW War Hub - tw-oc-payouts.json" },
+            { name: "tw-status-display", file: "data/Wolverines Official - TW War Hub - tw-status-display.json" },
+            { name: "tw-primary-displays", file: "data/Wolverines Official - TW War Hub - tw-primary-displays.json" },
+            { name: "tw-secondary-displays", file: "data/Wolverines Official - TW War Hub - tw-secondary-displays.json" },
+            { name: "tw-notifications", file: "data/Wolverines Official - TW War Hub - tw-notifications.json" },
+            { name: "tw-friendly-displays", file: "data/Wolverines Official - TW War Hub - tw-friendly-displays.json" },
+            { name: "tw-chain-watch", file: "data/Wolverines Official - TW War Hub - tw-chain-watch.json" },
+            { name: "tw-retal-watch", file: "data/Wolverines Official - TW War Hub - tw-retal-watch.json" },
+            { name: "tw-flight-watch", file: "data/Wolverines Official - TW War Hub - tw-flight-watch.json" },
+            { name: "tw-dibs", file: "data/Wolverines Official - TW War Hub - tw-dibs.json" },
+            { name: "tw-war-hub", file: "data/Wolverines Official - TW War Hub - tw-war-hub.json" },
+        ]
+    },
+    {
+        name: "WR War Hub",
+        channels: [
+            { name: "wr-oc-payouts", file: "data/Wolverines Official - WR War Hub - wr-oc-payouts.json" },
+            { name: "wr-primary-displays", file: "data/Wolverines Official - WR War Hub - wr-primary-displays.json" },
+            { name: "wr-secondary-displays", file: "data/Wolverines Official - WR War Hub - wr-secondary-displays.json" },
+            { name: "wr-friendly-displays", file: "data/Wolverines Official - WR War Hub - wr-friendly-displays.json" },
+            { name: "wr-chain-watch", file: "data/Wolverines Official - WR War Hub - wr-chain-watch.json" },
+            { name: "wr-retal-watch", file: "data/Wolverines Official - WR War Hub - wr-retal-watch.json" },
+            { name: "wr-flight-watch", file: "data/Wolverines Official - WR War Hub - wr-flight-watch.json" },
+            { name: "wr-dibs", file: "data/Wolverines Official - WR War Hub - wr-dibs.json" },
+            { name: "wr-war-hub", file: "data/Wolverines Official - WR War Hub - wr-war-hub.json" },
+        ]
+    },
+    {
+        name: "LW War Hub",
+        channels: [
+            { name: "lw-oc-payouts", file: "data/Wolverines Official - LW War Hub - lw-oc-payouts.json" },
+            { name: "lw-primary-displays", file: "data/Wolverines Official - LW War Hub - lw-primary-displays.json" },
+            { name: "lw-secondary-displays", file: "data/Wolverines Official - LW War Hub - lw-secondary-displays.json" },
+            { name: "lw-friendly-displays", file: "data/Wolverines Official - LW War Hub - lw-friendly-displays.json" },
+            { name: "lw-chain-watch", file: "data/Wolverines Official - LW War Hub - lw-chain-watch.json" },
+            { name: "lw-retal-watch", file: "data/Wolverines Official - LW War Hub - lw-retal-watch.json" },
+            { name: "lw-flight-watch", file: "data/Wolverines Official - LW War Hub - lw-flight-watch.json" },
+            { name: "lw-dibs", file: "data/Wolverines Official - LW War Hub - lw-dibs.json" },
+            { name: "lw-war-hub", file: "data/Wolverines Official - LW War Hub - lw-war-hub.json" },
+        ]
+    },
+    {
+        name: "WHO Revive Hub",
+        channels: [
+            { name: "who-oc-payouts", file: "data/Wolverines Official - WHO Revive Hub - who-oc-payouts.json" },
+            { name: "who-revive-displays", file: "data/Wolverines Official - WHO Revive Hub - who-revive-displays.json" },
+            { name: "who-retal-watch", file: "data/Wolverines Official - WHO Revive Hub - who-retal-watch.json" },
+            { name: "who-chain-watch", file: "data/Wolverines Official - WHO Revive Hub - who-chain-watch.json" },
+            { name: "who-revive-hub", file: "data/Wolverines Official - WHO Revive Hub - who-revive-hub.json" },
+        ]
+    },
+    {
+        name: "Wolverine Boards",
+        channels: [
+            { name: "frequently-asked-questions", file: "data/Wolverines Official - Wolverine Boards - frequently-asked-questions.json" },
+            { name: "advertising-board", file: "data/Wolverines Official - Wolverine Boards - advertising-board.json" },
+            { name: "discord-suggestions", file: "data/Wolverines Official - Wolverine Boards - discord-suggestions.json" },
+        ]
+    },
+    {
+        name: "Functions",
+        channels: [
+            { name: "shoplist-big-als-notify", file: "data/Wolverines Official - Functions - shoplist-big-als-notify.json" },
+            { name: "npc-loot-dashboard", file: "data/Wolverines Official - Functions - npc-loot-dashboard.json" },
+            { name: "npc-loot-alerts", file: "data/Wolverines Official - Functions - npc-loot-alerts.json" },
+            { name: "giveaways", file: "data/Wolverines Official - Functions - giveaways.json" },
+            { name: "revive-family", file: "data/Wolverines Official - Functions - revive-family.json" },
+            { name: "mugging", file: "data/Wolverines Official - Functions - mugging.json" },
+            { name: "bot-spam", file: "data/Wolverines Official - Functions - bot-spam.json" },
+            { name: "recruiting", file: "data/Wolverines Official - Functions - recruiting.json" },
+        ]
+    },
+    {
+        name: "Alliance",
+        channels: [
+            { name: "alliance", file: "data/Wolverines Official - Alliance - alliance.json" },
+            { name: "neighbourhood-watch", file: "data/Wolverines Official - Alliance - neighbourhood-watch.json" },
+        ]
+    },
+    {
+        name: "TW Company",
+        channels: [
+            { name: "director-lounge", file: "data/Wolverines Official - TW Company - director-lounge.json" },
+            { name: "management", file: "data/Wolverines Official - TW Company - management.json" },
+            { name: "kapten-mc", file: "data/Wolverines Official - TW Company - kapten-mc.json" },
+            { name: "chronology-lm", file: "data/Wolverines Official - TW Company - chronology-lm.json" },
+        ]
+    },
+    {
+        name: "TW Council",
+        channels: [
+            { name: "council", file: "data/Wolverines Official - TW Council - council.json" },
+            { name: "oc", file: "data/Wolverines Official - TW Council - oc.json" },
+            { name: "membership", file: "data/Wolverines Official - TW Council - membership.json" },
+            { name: "war-n-chain-planning", file: "data/Wolverines Official - TW Council - war-n-chain-planning.json" },
+            { name: "chain-absentees", file: "data/Wolverines Official - TW Council - chain-absentees.json" },
+            { name: "zer0s-test-channel", file: "data/Wolverines Official - TW Council - zer0s-test-channel.json" },
+        ]
+    },
+    {
+        name: "WR Council",
+        channels: [
+            { name: "council", file: "data/Wolverines Official - WR Council - council.json" },
+            { name: "wr-ledger", file: "data/Wolverines Official - WR Council - wr-ledger.json" },
+            { name: "membership", file: "data/Wolverines Official - WR Council - membership.json" },
+            { name: "membership-2", file: "data/Wolverines Official - WR Council - membership-2.json" },
+            { name: "oc-discussion", file: "data/Wolverines Official - WR Council - oc-discussion.json" },
+            { name: "wr-voting", file: "data/Wolverines Official - WR Council - wr-voting.json" },
+        ]
+    },
+    {
+        name: "LW Council",
+        channels: [
+            { name: "council", file: "data/Wolverines Official - LW Council - council.json" },
+            { name: "oc-notify", file: "data/Wolverines Official - LW Council - oc-notify.json" },
+            { name: "oc-delayers", file: "data/Wolverines Official - LW Council - oc-delayers.json" },
+            { name: "chain-absentees", file: "data/Wolverines Official - LW Council - chain-absentees.json" },
+            { name: "elder-council", file: "data/Wolverines Official - LW Council - elder-council.json" },
+        ]
+    },
+    {
+        name: "WHO Council",
+        channels: [
+            { name: "council", file: "data/Wolverines Official - WHO Council - council.json" },
+            { name: "oc-planning", file: "data/Wolverines Official - WHO Council - oc-planning.json" },
+            { name: "members-status", file: "data/Wolverines Official - WHO Council - members-status.json" },
+            { name: "who-oc-bot", file: "data/Wolverines Official - WHO Council - who-oc-bot.json" },
+            { name: "revive-logs", file: "data/Wolverines Official - WHO Council - revive-logs.json" },
+        ]
+    },
+    {
+        name: "Family-Council",
+        channels: [
+            { name: "leadership-council-info", file: "data/Wolverines Official - Family-Council - leadership-council-info.json" },
+            { name: "family-council", file: "data/Wolverines Official - Family-Council - family-council.json" },
+            { name: "council-voting", file: "data/Wolverines Official - Family-Council - council-voting.json" },
+            { name: "event-planning", file: "data/Wolverines Official - Family-Council - event-planning.json" },
+            { name: "faction-goals", file: "data/Wolverines Official - Family-Council - faction-goals.json" },
+            { name: "family-graphics-project", file: "data/Wolverines Official - Family-Council - family-graphics-project.json" },
+            { name: "family-bots-scripts-tools", file: "data/Wolverines Official - Family-Council - family-bots-scripts-tools.json" },
+            { name: "dev-requests", file: "data/Wolverines Official - Family-Council - dev-requests.json" },
+        ]
+    },
+    {
+        name: "Leadership",
+        channels: [
+            { name: "family-leadership", file: "data/Wolverines Official - Leadership - family-leadership.json" },
+            { name: "war-planning", file: "data/Wolverines Official - Leadership - war-planning.json" },
+            { name: "intel", file: "data/Wolverines Official - Leadership - intel.json" },
+            { name: "leadership-ledger", file: "data/Wolverines Official - Leadership - leadership-ledger.json" },
+            { name: "leadership-voting", file: "data/Wolverines Official - Leadership - leadership-voting.json" },
+            { name: "tools-n-reports", file: "data/Wolverines Official - Leadership - tools-n-reports.json" },
+            { name: "tw-leadership", file: "data/Wolverines Official - Leadership - tw-leadership.json" },
+            { name: "wr-leadership", file: "data/Wolverines Official - Leadership - wr-leadership.json" },
+            { name: "lw-leadership", file: "data/Wolverines Official - Leadership - lw-leadership.json" },
+            { name: "who-leadership", file: "data/Wolverines Official - Leadership - who-leadership.json" },
+            { name: "hbm-tw-leadership", file: "data/Wolverines Official - Leadership - hbm-tw-leadership.json" },
+        ]
+    },
+    {
+        name: "Management",
+        channels: [
+            { name: "emergency-directory", file: "data/Wolverines Official - Management - emergency-directory.json" },
+            { name: "leadership-tools", file: "data/Wolverines Official - Management - leadership-tools.json" },
+            { name: "verification", file: "data/Wolverines Official - Management - verification.json" },
+            { name: "server-changes-log", file: "data/Wolverines Official - Management - server-changes-log.json" },
+            { name: "witch-pastes", file: "data/Wolverines Official - Management - witch-pastes.json" },
+            { name: "leadership-bot-spam", file: "data/Wolverines Official - Management - leadership-bot-spam.json" },
+            { name: "wolvnet", file: "data/Wolverines Official - Management - wolvnet.json" },
+            { name: "admin-bot-spam", file: "data/Wolverines Official - Management - admin-bot-spam.json" },
+        ]
+    },
+    {
+        name: "Stock Market",
+        channels: [
+            { name: "stock-bot-readme", file: "data/Wolverines Official - Stock Market - stock-bot-readme.json" },
+            { name: "stock-talk", file: "data/Wolverines Official - Stock Market - stock-talk.json" },
+            { name: "50b-100b-transactions", file: "data/Wolverines Official - Stock Market - 50b-100b-transactions.json" },
+            { name: "100b-500b-transactions", file: "data/Wolverines Official - Stock Market - 100b-500b-transactions.json" },
+            { name: "500b-1t-transactions", file: "data/Wolverines Official - Stock Market - 500b-1t-transactions.json" },
+            { name: "1t-plus-transactions", file: "data/Wolverines Official - Stock Market - 1t-plus-transactions.json" },
+            { name: "stock-bot-commands", file: "data/Wolverines Official - Stock Market - stock-bot-commands.json" },
+        ]
+    },
+    {
+        name: "Item Market",
+        channels: [
+            { name: "market-stalker", file: "data/Wolverines Official - Item Market - market-stalker.json" },
+        ]
+    },
+    {
+        name: "archive-not-in-use",
+        channels: [
+            { name: "oc-payout-test", file: "data/Wolverines Official - archive-not-in-use - oc-payout-test.json" },
+            { name: "wr-oc-bot", file: "data/Wolverines Official - archive-not-in-use - wr-oc-bot.json" },
+            { name: "lw-oc-bot", file: "data/Wolverines Official - archive-not-in-use - lw-oc-bot.json" },
+            { name: "tw-oc-bot", file: "data/Wolverines Official - archive-not-in-use - tw-oc-bot.json" },
+            { name: "competition-info", file: "data/Wolverines Official - archive-not-in-use - competition-info.json" },
+            { name: "res-merge", file: "data/Wolverines Official - archive-not-in-use - res-merge.json" },
+            { name: "torn", file: "data/Wolverines Official - archive-not-in-use - torn.json" },
+            { name: "argentina", file: "data/Wolverines Official - archive-not-in-use - argentina.json" },
+            { name: "china", file: "data/Wolverines Official - archive-not-in-use - china.json" },
+            { name: "hawaii", file: "data/Wolverines Official - archive-not-in-use - hawaii.json" },
+            { name: "japan", file: "data/Wolverines Official - archive-not-in-use - japan.json" },
+            { name: "sa", file: "data/Wolverines Official - archive-not-in-use - sa.json" },
+            { name: "switzerland", file: "data/Wolverines Official - archive-not-in-use - switzerland.json" },
+            { name: "uae", file: "data/Wolverines Official - archive-not-in-use - uae.json" },
+            { name: "uk", file: "data/Wolverines Official - archive-not-in-use - uk.json" },
+            { name: "island-war-2-tert-nego", file: "data/Wolverines Official - archive-not-in-use - island-war-2-tert-nego.json" },
+            { name: "hbm-tw-merge", file: "data/Wolverines Official - archive-not-in-use - hbm-tw-merge.json" },
+            { name: "best-decorated-tree", file: "data/Wolverines Official - archive-not-in-use - best-decorated-tree.json" },
+            { name: "christmas-bake-off", file: "data/Wolverines Official - archive-not-in-use - christmas-bake-off.json" },
+            { name: "best-christmas-cocktail-mocktail", file: "data/Wolverines Official - archive-not-in-use - best-christmas-cocktail-mocktail.json" },
+            { name: "best-scrooge-or-bah-humbug-photo", file: "data/Wolverines Official - archive-not-in-use - best-scrooge-or-bah-humbug-photo.json" },
+            { name: "tw-armoury-assignments", file: "data/Wolverines Official - archive-not-in-use - tw-armoury-assignments.json" },
+            { name: "chain", file: "data/Wolverines Official - archive-not-in-use - chain.json" },
+            { name: "retals", file: "data/Wolverines Official - archive-not-in-use - retals.json" },
+            { name: "gw-investments", file: "data/Wolverines Official - archive-not-in-use - gw-investments.json" },
+            { name: "council-revamp", file: "data/Wolverines Official - archive-not-in-use - council-revamp.json" },
+            { name: "revive-faction-project", file: "data/Wolverines Official - archive-not-in-use - revive-faction-project.json" },
+            { name: "journalism", file: "data/Wolverines Official - archive-not-in-use - journalism.json" },
+            { name: "tribe-bot", file: "data/Wolverines Official - archive-not-in-use - tribe-bot.json" },
+            { name: "non-related", file: "data/Wolverines Official - archive-not-in-use - non-related.json" },
+            { name: "little-council", file: "data/Wolverines Official - archive-not-in-use - little-council.json" },
+            { name: "reaction-roles", file: "data/Wolverines Official - archive-not-in-use - reaction-roles.json" },
+            { name: "hosp-notif", file: "data/Wolverines Official - archive-not-in-use - hosp-notif.json" },
+            { name: "merge", file: "data/Wolverines Official - archive-not-in-use - merge.json" },
+            { name: "racket-ledger", file: "data/Wolverines Official - archive-not-in-use - racket-ledger.json" },
+            { name: "war-tools", file: "data/Wolverines Official - archive-not-in-use - war-tools.json" },
+            { name: "wgw-restructure", file: "data/Wolverines Official - archive-not-in-use - wgw-restructure.json" },
+            { name: "tribes", file: "data/Wolverines Official - archive-not-in-use - tribes.json" },
+            { name: "oc-notify-archive", file: "data/Wolverines Official - archive-not-in-use - oc-notify-archive.json" },
+            { name: "revive-out", file: "data/Wolverines Official - archive-not-in-use - revive-out.json" },
+            { name: "catarines", file: "data/Wolverines Official - archive-not-in-use - catarines.json" },
+            { name: "strategy", file: "data/Wolverines Official - archive-not-in-use - strategy.json" },
+            { name: "young-wolverines", file: "data/Wolverines Official - archive-not-in-use - young-wolverines.json" },
+            { name: "goingforward", file: "data/Wolverines Official - archive-not-in-use - goingforward.json" },
+            { name: "private", file: "data/Wolverines Official - archive-not-in-use - private.json" },
+            { name: "test", file: "data/Wolverines Official - archive-not-in-use - test.json" },
+        ]
+    },
+]
+        };
+
+        let currentMessages = [];
+        let allMessages = []; // For search
+
+        // Initialize the app
+        function init() {
+            document.getElementById('serverName').textContent = serverConfig.name;
+            document.getElementById('serverIconImg').src = serverConfig.iconUrl;
+            renderChannels();
+            setupSearch();
+        }
+
+        // Render channel sidebar
+        function renderChannels() {
+            const container = document.getElementById('channelsContainer');
+            container.innerHTML = '';
+
+            serverConfig.categories.forEach((category, catIndex) => {
+                const categoryDiv = document.createElement('div');
+                categoryDiv.className = 'category';
+                categoryDiv.innerHTML = `
+                    <div class="category-header" onclick="toggleCategory(${catIndex})">
+                        <span class="category-arrow">▼</span>
+                        ${category.name}
+                    </div>
+                    <div class="channel-list" id="category-${catIndex}">
+                        ${category.channels.map((channel, chIndex) => `
+                            <div class="channel" data-file="${channel.file}" onclick="loadChannel(this, '${channel.file}', '${channel.name}')">
+                                <span class="channel-hash">#</span>
+                                ${channel.name}
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+                container.appendChild(categoryDiv);
+            });
+        }
+
+        // Toggle category collapse
+        function toggleCategory(index) {
+            const category = document.querySelectorAll('.category')[index];
+            category.classList.toggle('collapsed');
+        }
+
+        // Load channel messages
+        async function loadChannel(element, file, name) {
+            // Update active state
+            document.querySelectorAll('.channel').forEach(ch => ch.classList.remove('active'));
+            element.classList.add('active');
+
+            // Update header
+            document.getElementById('currentChannelName').textContent = name;
+
+            // Show loading
+            const container = document.getElementById('messagesContainer');
+            container.innerHTML = '<div class="loading">Loading messages...</div>';
+
+            try {
+                const response = await fetch(file);
+                if (!response.ok) throw new Error('File not found');
+                const data = await response.json();
+                currentMessages = data.messages || [];
+                allMessages = currentMessages;
+                renderMessages(currentMessages);
+            } catch (error) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">⚠️</div>
+                        <div class="empty-state-text">Could not load channel: ${error.message}</div>
+                    </div>
+                `;
+            }
+        }
+
+        // Render messages
+        function renderMessages(messages) {
+            const container = document.getElementById('messagesContainer');
+            
+            if (!messages || messages.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">💬</div>
+                        <div class="empty-state-text">No messages in this channel</div>
+                    </div>
+                `;
+                return;
+            }
+
+            let html = '';
+            let lastDate = null;
+
+            messages.forEach((msg, index) => {
+                const msgDate = new Date(msg.timestamp);
+                const dateStr = msgDate.toLocaleDateString('en-AU', { 
+                    weekday: 'long', 
+                    year: 'numeric', 
+                    month: 'long', 
+                    day: 'numeric' 
+                });
+
+                // Add date divider if new day
+                if (dateStr !== lastDate) {
+                    html += `
+                        <div class="date-divider">
+                            <div class="date-divider-line"></div>
+                            <div class="date-divider-text">${dateStr}</div>
+                            <div class="date-divider-line"></div>
+                        </div>
+                    `;
+                    lastDate = dateStr;
+                }
+
+                html += renderMessage(msg);
+            });
+
+            container.innerHTML = html;
+        }
+
+        // Render a single message
+        function renderMessage(msg) {
+            const author = msg.author || {};
+            const timestamp = formatTimestamp(msg.timestamp);
+            const authorColor = author.color || '#ffffff';
+            const nickname = author.nickname || author.name || 'Unknown';
+            const avatarUrl = author.avatarUrl || 'https://cdn.discordapp.com/embed/avatars/0.png';
+            const isBot = author.isBot;
+
+            let content = escapeHtml(msg.content || '');
+            content = formatMessageContent(content);
+
+            let html = `
+                <div class="message-group">
+                    <div class="message-avatar">
+                        <img src="${avatarUrl}" alt="${nickname}" onerror="this.src='https://cdn.discordapp.com/embed/avatars/0.png'">
+                    </div>
+                    <div class="message-content-wrapper">
+                        <div class="message-header">
+                            <span class="message-author" style="color: ${authorColor}">${escapeHtml(nickname)}</span>
+                            ${isBot ? '<span class="bot-tag">BOT</span>' : ''}
+                            <span class="message-timestamp">${timestamp}</span>
+                        </div>
+                        <div class="message-content">${content}</div>
+            `;
+
+            // Attachments
+            if (msg.attachments && msg.attachments.length > 0) {
+                html += '<div class="attachments">';
+                msg.attachments.forEach(att => {
+                    const isImage = /\.(jpg|jpeg|png|gif|webp)$/i.test(att.fileName);
+                    if (isImage) {
+                        html += `
+                            <div class="attachment">
+                                <img src="${att.url}" alt="${att.fileName}" loading="lazy" 
+                                     onerror="this.parentElement.innerHTML='<div class=\\'attachment-file\\'><span class=\\'attachment-file-icon\\'>🖼️</span><span>Image unavailable</span></div>'">
+                            </div>
+                        `;
+                    } else {
+                        html += `
+                            <div class="attachment-file">
+                                <span class="attachment-file-icon">📎</span>
+                                <a href="${att.url}" target="_blank" class="attachment-file-name">${escapeHtml(att.fileName)}</a>
+                            </div>
+                        `;
+                    }
+                });
+                html += '</div>';
+            }
+
+            // Embeds
+            if (msg.embeds && msg.embeds.length > 0) {
+                msg.embeds.forEach(embed => {
+                    const embedColor = embed.color || '#5865f2';
+                    html += `
+                        <div class="embed">
+                            <div class="embed-color-bar" style="background-color: ${embedColor}"></div>
+                            <div class="embed-content">
+                                ${embed.title ? `<div class="embed-title">${escapeHtml(embed.title)}</div>` : ''}
+                                ${embed.description ? `<div class="embed-description">${escapeHtml(embed.description)}</div>` : ''}
+                                ${embed.footer ? `<div class="embed-footer">${escapeHtml(embed.footer.text || '')}</div>` : ''}
+                            </div>
+                        </div>
+                    `;
+                });
+            }
+
+            // Reactions
+            if (msg.reactions && msg.reactions.length > 0) {
+                html += '<div class="reactions">';
+                msg.reactions.forEach(reaction => {
+                    const emoji = reaction.emoji;
+                    const emojiHtml = emoji.imageUrl 
+                        ? `<img src="${emoji.imageUrl}" alt="${emoji.name}">`
+                        : emoji.name;
+                    html += `
+                        <div class="reaction">
+                            <span class="reaction-emoji">${emojiHtml}</span>
+                            <span class="reaction-count">${reaction.count}</span>
+                        </div>
+                    `;
+                });
+                html += '</div>';
+            }
+
+            html += '</div></div>';
+            return html;
+        }
+
+        // Format message content (code blocks, etc.)
+        function formatMessageContent(content) {
+            // Code blocks (```)
+            content = content.replace(/```([^`]*?)```/gs, '<pre><code>$1</code></pre>');
+            // Inline code (`)
+            content = content.replace(/`([^`]+)`/g, '<code>$1</code>');
+            // Bold (**)
+            content = content.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+            // Italic (*)
+            content = content.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+            // Underline (__)
+            content = content.replace(/__([^_]+)__/g, '<u>$1</u>');
+            // Links
+            content = content.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" style="color: #00a8fc;">$1</a>');
+            
+            return content;
+        }
+
+        // Format timestamp
+        function formatTimestamp(timestamp) {
+            const date = new Date(timestamp);
+            const today = new Date();
+            const yesterday = new Date(today);
+            yesterday.setDate(yesterday.getDate() - 1);
+
+            const timeStr = date.toLocaleTimeString('en-AU', { 
+                hour: '2-digit', 
+                minute: '2-digit',
+                hour12: true 
+            });
+
+            if (date.toDateString() === today.toDateString()) {
+                return `Today at ${timeStr}`;
+            } else if (date.toDateString() === yesterday.toDateString()) {
+                return `Yesterday at ${timeStr}`;
+            } else {
+                return date.toLocaleDateString('en-AU', { 
+                    day: '2-digit',
+                    month: '2-digit',
+                    year: 'numeric'
+                }) + ' ' + timeStr;
+            }
+        }
+
+        // Escape HTML
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Setup search
+        function setupSearch() {
+            const searchInput = document.getElementById('searchInput');
+            let searchTimeout;
+
+            searchInput.addEventListener('input', (e) => {
+                clearTimeout(searchTimeout);
+                searchTimeout = setTimeout(() => {
+                    const query = e.target.value.toLowerCase().trim();
+                    if (!query) {
+                        renderMessages(allMessages);
+                        return;
+                    }
+                    const filtered = allMessages.filter(msg => {
+                        const content = (msg.content || '').toLowerCase();
+                        const author = (msg.author?.nickname || msg.author?.name || '').toLowerCase();
+                        return content.includes(query) || author.includes(query);
+                    });
+                    renderMessages(filtered);
+                }, 300);
+            });
+        }
+
+        // Initialize when DOM is ready
+        document.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>
