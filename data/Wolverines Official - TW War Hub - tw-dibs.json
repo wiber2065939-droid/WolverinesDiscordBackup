@@ -1,0 +1,6152 @@
+{
+  "guild": {
+    "id": "650086260253130763",
+    "name": "Wolverines Official",
+    "iconUrl": "https://cdn.discordapp.com/icons/650086260253130763/248df5ee4812c5d6b78c6e10e4d9ebda.png?size=512"
+  },
+  "channel": {
+    "id": "1113051890213716009",
+    "type": "GuildTextChat",
+    "categoryId": "1243662204717240371",
+    "category": "TW War Hub",
+    "name": "tw-dibs",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-12-14T21:55:20.2359539+08:00",
+  "messages": [
+    {
+      "id": "1113061385685966859",
+      "type": "Default",
+      "timestamp": "2023-05-30T19:08:34.028+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I call it",
+      "author": {
+        "id": "506586565322211350",
+        "name": ".raelyn.",
+        "discriminator": "0000",
+        "nickname": "Raelyn [2636726]",
+        "color": "#369876",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "650088877943685126",
+            "name": "Leadership",
+            "color": "#369876",
+            "position": 67
+          },
+          {
+            "id": "850430073998671904",
+            "name": "WR Leadership",
+            "color": "#1ABC9C",
+            "position": 65
+          },
+          {
+            "id": "715258823438368829",
+            "name": "Council",
+            "color": "#AA3B3B",
+            "position": 61
+          },
+          {
+            "id": "850429864124088360",
+            "name": "WR Council",
+            "color": "#E74C3C",
+            "position": 59
+          },
+          {
+            "id": "650089311244517386",
+            "name": "WR",
+            "color": "#CCCCCC",
+            "position": 47
+          },
+          {
+            "id": "796044336777003068",
+            "name": "Wolverines",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1160653956482084934",
+            "name": "Giveaways",
+            "color": "#2ECC71",
+            "position": 24
+          },
+          {
+            "id": "1322663824222064760",
+            "name": "Banker WR",
+            "color": "#71368A",
+            "position": 21
+          },
+          {
+            "id": "1160655343072841828",
+            "name": "Retals",
+            "color": "#71368A",
+            "position": 15
+          },
+          {
+            "id": "1167218077012865044",
+            "name": "Chain Watcher",
+            "color": "#71368A",
+            "position": 11
+          },
+          {
+            "id": "762171719900987423",
+            "name": "Giveaway Hoster",
+            "color": "#71368A",
+            "position": 10
+          },
+          {
+            "id": "650100703838208032",
+            "name": "Verified",
+            "color": "#C27C0E",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/506586565322211350/1aaeb98b9a73bac3e6cdf854366e8d68.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1113071566436180028",
+      "type": "Reply",
+      "timestamp": "2023-05-30T19:49:01.308+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No me \uD83D\uDE02",
+      "author": {
+        "id": "566389948433825814",
+        "name": "badassblue",
+        "discriminator": "0000",
+        "nickname": "BadAssBlue [2277180]",
+        "color": "#369876",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1164556752688267344",
+            "name": "Mini Witch",
+            "color": null,
+            "position": 68
+          },
+          {
+            "id": "650088877943685126",
+            "name": "Leadership",
+            "color": "#369876",
+            "position": 67
+          },
+          {
+            "id": "850430340099080222",
+            "name": "TW Leadership",
+            "color": "#1ABC9C",
+            "position": 66
+          },
+          {
+            "id": "850430073998671904",
+            "name": "WR Leadership",
+            "color": "#1ABC9C",
+            "position": 65
+          },
+          {
+            "id": "1094880259763081226",
+            "name": "Recruiter",
+            "color": "#206694",
+            "position": 49
+          },
+          {
+            "id": "650089311244517386",
+            "name": "WR",
+            "color": "#CCCCCC",
+            "position": 47
+          },
+          {
+            "id": "796044336777003068",
+            "name": "Wolverines",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "940633975108542524",
+            "name": "Stocks",
+            "color": "#71368A",
+            "position": 31
+          },
+          {
+            "id": "941000448658243655",
+            "name": "Stocks Huge Transaction",
+            "color": "#2ECC71",
+            "position": 30
+          },
+          {
+            "id": "941000432879304724",
+            "name": "Stocks Large Transaction",
+            "color": "#2ECC71",
+            "position": 29
+          },
+          {
+            "id": "941000406119616553",
+            "name": "Stocks Medium Transaction",
+            "color": "#2ECC71",
+            "position": 28
+          },
+          {
+            "id": "941000380626649119",
+            "name": "Stocks Small Transaction",
+            "color": "#2ECC71",
+            "position": 27
+          },
+          {
+            "id": "1159539206037712916",
+            "name": "Big Als Double Disable",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "1159539294348783646",
+            "name": "Big Als Single Disable",
+            "color": "#2ECC71",
+            "position": 25
+          },
+          {
+            "id": "1160653956482084934",
+            "name": "Giveaways",
+            "color": "#2ECC71",
+            "position": 24
+          },
+          {
+            "id": "1322662900959154247",
+            "name": "Banker TW",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "1180994908207714324",
+            "name": "OCs TW",
+            "color": "#71368A",
+            "position": 22
+          },
+          {
+            "id": "1181093720976797696",
+            "name": "OCs WR",
+            "color": "#71368A",
+            "position": 20
+          },
+          {
+            "id": "1160655343072841828",
+            "name": "Retals",
+            "color": "#71368A",
+            "position": 15
+          },
+          {
+            "id": "1160653146159321108",
+            "name": "Buster",
+            "color": "#71368A",
+            "position": 12
+          },
+          {
+            "id": "1167218077012865044",
+            "name": "Chain Watcher",
+            "color": "#71368A",
+            "position": 11
+          },
+          {
+            "id": "762171719900987423",
+            "name": "Giveaway Hoster",
+            "color": "#71368A",
+            "position": 10
+          },
+          {
+            "id": "650100703838208032",
+            "name": "Verified",
+            "color": "#C27C0E",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/566389948433825814/c260694d92ca357c555825af0e23b7a8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "506586565322211350",
+          "name": ".raelyn.",
+          "discriminator": "0000",
+          "nickname": "Raelyn [2636726]",
+          "color": "#369876",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "650088877943685126",
+              "name": "Leadership",
+              "color": "#369876",
+              "position": 67
+            },
+            {
+              "id": "850430073998671904",
+              "name": "WR Leadership",
+              "color": "#1ABC9C",
+              "position": 65
+            },
+            {
+              "id": "715258823438368829",
+              "name": "Council",
+              "color": "#AA3B3B",
+              "position": 61
+            },
+            {
+              "id": "850429864124088360",
+              "name": "WR Council",
+              "color": "#E74C3C",
+              "position": 59
+            },
+            {
+              "id": "650089311244517386",
+              "name": "WR",
+              "color": "#CCCCCC",
+              "position": 47
+            },
+            {
+              "id": "796044336777003068",
+              "name": "Wolverines",
+              "color": null,
+              "position": 44
+            },
+            {
+              "id": "1160653956482084934",
+              "name": "Giveaways",
+              "color": "#2ECC71",
+              "position": 24
+            },
+            {
+              "id": "1322663824222064760",
+              "name": "Banker WR",
+              "color": "#71368A",
+              "position": 21
+            },
+            {
+              "id": "1160655343072841828",
+              "name": "Retals",
+              "color": "#71368A",
+              "position": 15
+            },
+            {
+              "id": "1167218077012865044",
+              "name": "Chain Watcher",
+              "color": "#71368A",
+              "position": 11
+            },
+            {
+              "id": "762171719900987423",
+              "name": "Giveaway Hoster",
+              "color": "#71368A",
+              "position": 10
+            },
+            {
+              "id": "650100703838208032",
+              "name": "Verified",
+              "color": "#C27C0E",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/506586565322211350/1aaeb98b9a73bac3e6cdf854366e8d68.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1113061385685966859",
+        "channelId": "1113051890213716009",
+        "guildId": "650086260253130763"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE02",
+          "code": "joy",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f602.svg"
+        }
+      ]
+    },
+    {
+      "id": "1113072492119072829",
+      "type": "Default",
+      "timestamp": "2023-05-30T19:52:42.008+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Naw me first xD",
+      "author": {
+        "id": "506586565322211350",
+        "name": ".raelyn.",
+        "discriminator": "0000",
+        "nickname": "Raelyn [2636726]",
+        "color": "#369876",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "650088877943685126",
+            "name": "Leadership",
+            "color": "#369876",
+            "position": 67
+          },
+          {
+            "id": "850430073998671904",
+            "name": "WR Leadership",
+            "color": "#1ABC9C",
+            "position": 65
+          },
+          {
+            "id": "715258823438368829",
+            "name": "Council",
+            "color": "#AA3B3B",
+            "position": 61
+          },
+          {
+            "id": "850429864124088360",
+            "name": "WR Council",
+            "color": "#E74C3C",
+            "position": 59
+          },
+          {
+            "id": "650089311244517386",
+            "name": "WR",
+            "color": "#CCCCCC",
+            "position": 47
+          },
+          {
+            "id": "796044336777003068",
+            "name": "Wolverines",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1160653956482084934",
+            "name": "Giveaways",
+            "color": "#2ECC71",
+            "position": 24
+          },
+          {
+            "id": "1322663824222064760",
+            "name": "Banker WR",
+            "color": "#71368A",
+            "position": 21
+          },
+          {
+            "id": "1160655343072841828",
+            "name": "Retals",
+            "color": "#71368A",
+            "position": 15
+          },
+          {
+            "id": "1167218077012865044",
+            "name": "Chain Watcher",
+            "color": "#71368A",
+            "position": 11
+          },
+          {
+            "id": "762171719900987423",
+            "name": "Giveaway Hoster",
+            "color": "#71368A",
+            "position": 10
+          },
+          {
+            "id": "650100703838208032",
+            "name": "Verified",
+            "color": "#C27C0E",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/506586565322211350/1aaeb98b9a73bac3e6cdf854366e8d68.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1113073435795529858",
+      "type": "Default",
+      "timestamp": "2023-05-30T19:56:26.998+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can I call dibs now for anything I want in advance of our next war????",
+      "author": {
+        "id": "422620847359131670",
+        "name": "r45kil",
+        "discriminator": "0000",
+        "nickname": "R45KIL",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422620847359131670/9f8a7765516eeb55a97d6b3d9db19beb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1113080713386938369",
+      "type": "Default",
+      "timestamp": "2023-05-30T20:25:22.111+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i call dibs on anyone under 1b",
+      "author": {
+        "id": "90668414648999936",
+        "name": "miriql",
+        "discriminator": "0000",
+        "nickname": "MiriQL [2623324]",
+        "color": "#C27C0E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "650100703838208032",
+            "name": "Verified",
+            "color": "#C27C0E",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/90668414648999936/520fdfd476ed7938f72923ea0bda66f4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1113083179889328230",
+      "type": "Default",
+      "timestamp": "2023-05-30T20:35:10.171+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm under 1b! \uD83E\uDD70 take me miri",
+      "author": {
+        "id": "506586565322211350",
+        "name": ".raelyn.",
+        "discriminator": "0000",
+        "nickname": "Raelyn [2636726]",
+        "color": "#369876",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "650088877943685126",
+            "name": "Leadership",
+            "color": "#369876",
+            "position": 67
+          },
+          {
+            "id": "850430073998671904",
+            "name": "WR Leadership",
+            "color": "#1ABC9C",
+            "position": 65
+          },
+          {
+            "id": "715258823438368829",
+            "name": "Council",
+            "color": "#AA3B3B",
+            "position": 61
+          },
+          {
+            "id": "850429864124088360",
+            "name": "WR Council",
+            "color": "#E74C3C",
+            "position": 59
+          },
+          {
+            "id": "650089311244517386",
+            "name": "WR",
+            "color": "#CCCCCC",
+            "position": 47
+          },
+          {
+            "id": "796044336777003068",
+            "name": "Wolverines",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1160653956482084934",
+            "name": "Giveaways",
+            "color": "#2ECC71",
+            "position": 24
+          },
+          {
+            "id": "1322663824222064760",
+            "name": "Banker WR",
+            "color": "#71368A",
+            "position": 21
+          },
+          {
+            "id": "1160655343072841828",
+            "name": "Retals",
+            "color": "#71368A",
+            "position": 15
+          },
+          {
+            "id": "1167218077012865044",
+            "name": "Chain Watcher",
+            "color": "#71368A",
+            "position": 11
+          },
+          {
+            "id": "762171719900987423",
+            "name": "Giveaway Hoster",
+            "color": "#71368A",
+            "position": 10
+          },
+          {
+            "id": "650100703838208032",
+            "name": "Verified",
+            "color": "#C27C0E",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/506586565322211350/1aaeb98b9a73bac3e6cdf854366e8d68.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83E\uDD70",
+          "code": "smiling_face_with_3_hearts",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f970.svg"
+        }
+      ]
+    },
+    {
+      "id": "1113083270364680213",
+      "type": "Reply",
+      "timestamp": "2023-05-30T20:35:31.742+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No I already did, soz bb",
+      "author": {
+        "id": "506586565322211350",
+        "name": ".raelyn.",
+        "discriminator": "0000",
+        "nickname": "Raelyn [2636726]",
+        "color": "#369876",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "650088877943685126",
+            "name": "Leadership",
+            "color": "#369876",
+            "position": 67
+          },
+          {
+            "id": "850430073998671904",
+            "name": "WR Leadership",
+            "color": "#1ABC9C",
+            "position": 65
+          },
+          {
+            "id": "715258823438368829",
+            "name": "Council",
+            "color": "#AA3B3B",
+            "position": 61
+          },
+          {
+            "id": "850429864124088360",
+            "name": "WR Council",
+            "color": "#E74C3C",
+            "position": 59
+          },
+          {
+            "id": "650089311244517386",
+            "name": "WR",
+            "color": "#CCCCCC",
+            "position": 47
+          },
+          {
+            "id": "796044336777003068",
+            "name": "Wolverines",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1160653956482084934",
+            "name": "Giveaways",
+            "color": "#2ECC71",
+            "position": 24
+          },
+          {
+            "id": "1322663824222064760",
+            "name": "Banker WR",
+            "color": "#71368A",
+            "position": 21
+          },
+          {
+            "id": "1160655343072841828",
+            "name": "Retals",
+            "color": "#71368A",
+            "position": 15
+          },
+          {
+            "id": "1167218077012865044",
+            "name": "Chain Watcher",
+            "color": "#71368A",
+            "position": 11
+          },
+          {
+            "id": "762171719900987423",
+            "name": "Giveaway Hoster",
+            "color": "#71368A",
+            "position": 10
+          },
+          {
+            "id": "650100703838208032",
+            "name": "Verified",
+            "color": "#C27C0E",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/506586565322211350/1aaeb98b9a73bac3e6cdf854366e8d68.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "422620847359131670",
+          "name": "r45kil",
+          "discriminator": "0000",
+          "nickname": "R45KIL",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/422620847359131670/9f8a7765516eeb55a97d6b3d9db19beb.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1113073435795529858",
+        "channelId": "1113051890213716009",
+        "guildId": "650086260253130763"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1113316450925555712",
+      "type": "20",
+      "timestamp": "2023-05-31T12:02:06.32+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@R45KIL",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "Your Torn API Key has been paired @R45KIL!",
+          "color": "#E4EBE8",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "422620847359131670",
+          "name": "r45kil",
+          "discriminator": "0000",
+          "nickname": "R45KIL",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/422620847359131670/9f8a7765516eeb55a97d6b3d9db19beb.png?size=512"
+        }
+      ],
+      "interaction": {
+        "id": "1113316399016849460",
+        "name": "pair",
+        "user": {
+          "id": "422620847359131670",
+          "name": "r45kil",
+          "discriminator": "0000",
+          "nickname": "R45KIL",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/422620847359131670/9f8a7765516eeb55a97d6b3d9db19beb.png?size=512"
+        }
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1311909011523633183",
+      "type": "Default",
+      "timestamp": "2024-11-29T12:18:02.438+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Black Hand • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uYMFKDndBN_Dj70Zsg-SOteaAj6xeEFyWwrSKp3B-Rk/https/factiontags.torn.com/9100-3732.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Yuko](https://tcy.sh/p/2570196)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "98",
+              "isInline": true
+            },
+            {
+              "name": "Estimated Stats",
+              "value": "3.59B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 3,846\nCans: 993\nSEs: 3",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "29/11/2024 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1311909012932923482",
+      "type": "Default",
+      "timestamp": "2024-11-29T12:18:02.774+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Black Hand • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uYMFKDndBN_Dj70Zsg-SOteaAj6xeEFyWwrSKp3B-Rk/https/factiontags.torn.com/9100-3732.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[zitosxj](https://tcy.sh/p/2645149)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "94",
+              "isInline": true
+            },
+            {
+              "name": "Estimated Stats",
+              "value": "3.33B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 3,187\nCans: 1,038\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "29/11/2024 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1311909053345304678",
+      "type": "Default",
+      "timestamp": "2024-11-29T12:18:12.409+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Black Hand • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uYMFKDndBN_Dj70Zsg-SOteaAj6xeEFyWwrSKp3B-Rk/https/factiontags.torn.com/9100-3732.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[KingShmexy](https://tcy.sh/p/2071072)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "95",
+              "isInline": true
+            },
+            {
+              "name": "Estimated Stats",
+              "value": "1.34B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 2,696\nCans: 433\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "29/11/2024 12:23 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1311909431088382023",
+      "type": "Default",
+      "timestamp": "2024-11-29T12:19:42.47+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Black Hand • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uYMFKDndBN_Dj70Zsg-SOteaAj6xeEFyWwrSKp3B-Rk/https/factiontags.torn.com/9100-3732.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Hela](https://tcy.sh/p/2553909)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "90",
+              "isInline": true
+            },
+            {
+              "name": "Estimated Stats",
+              "value": "1.82B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 2,461\nCans: 1,027\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "29/11/2024 12:24 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1312288502603452471",
+      "type": "Default",
+      "timestamp": "2024-11-30T13:26:00.162+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Black Hand • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uYMFKDndBN_Dj70Zsg-SOteaAj6xeEFyWwrSKp3B-Rk/https/factiontags.torn.com/9100-3732.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[OSlayer](https://tcy.sh/p/2311362)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "75",
+              "isInline": true
+            },
+            {
+              "name": "Estimated Stats",
+              "value": "875.45M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 1,131\nCans: 312\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "30/11/2024 1:30 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1312288544798150667",
+      "type": "Default",
+      "timestamp": "2024-11-30T13:26:10.222+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Black Hand • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uYMFKDndBN_Dj70Zsg-SOteaAj6xeEFyWwrSKp3B-Rk/https/factiontags.torn.com/9100-3732.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[F0X](https://tcy.sh/p/2753513)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "70",
+              "isInline": true
+            },
+            {
+              "name": "Estimated Stats",
+              "value": "1.11B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 2,002\nCans: 680\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "30/11/2024 1:31 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1312289048496439326",
+      "type": "Default",
+      "timestamp": "2024-11-30T13:28:10.313+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Black Hand • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uYMFKDndBN_Dj70Zsg-SOteaAj6xeEFyWwrSKp3B-Rk/https/factiontags.torn.com/9100-3732.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Bohr](https://tcy.sh/p/2645473)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "90",
+              "isInline": true
+            },
+            {
+              "name": "Estimated Stats",
+              "value": "1.39B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 2,527\nCans: 482\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "30/11/2024 1:33 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1312289425971089462",
+      "type": "Default",
+      "timestamp": "2024-11-30T13:29:40.31+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Black Hand • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uYMFKDndBN_Dj70Zsg-SOteaAj6xeEFyWwrSKp3B-Rk/https/factiontags.torn.com/9100-3732.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Camcliff](https://tcy.sh/p/2006411)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "71",
+              "isInline": true
+            },
+            {
+              "name": "Estimated Stats",
+              "value": "104.92M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 1,136\nCans: 297\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "30/11/2024 1:34 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1328014237578035202",
+      "type": "Default",
+      "timestamp": "2025-01-12T22:54:27.55+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Ahsoka_Tano](https://tcy.sh/p/2869615)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "62",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "240.75K",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 971\nCans: 765\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "12/01/2025 10:59 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1328014531821178942",
+      "type": "Default",
+      "timestamp": "2025-01-12T22:55:37.703+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Merkelig](https://tcy.sh/p/1965075)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "94",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "2.38B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 2,617\nCans: 118\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "12/01/2025 11:00 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1328014740768817304",
+      "type": "Default",
+      "timestamp": "2025-01-12T22:56:27.52+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[BrightSatyr](https://tcy.sh/p/2666221)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "90",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "2.53B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 2,676\nCans: 189\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "12/01/2025 11:01 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345247992327704616",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:15:14.87+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Storey](https://tcy.sh/p/510893)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "69",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "860.07M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 1,300\nCans: 17\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:20 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248118022606922",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:15:44.838+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Lady](https://tcy.sh/p/3168038)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "40",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "2.59M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 365\nCans: 0\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:20 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248119738335242",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:15:45.247+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[p0g4kz](https://tcy.sh/p/341685)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "81",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "951.45M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 306\nCans: 36\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:20 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248160179814461",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:15:54.889+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Tzarlin](https://tcy.sh/p/2640068)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "50",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "2.48B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 2,720\nCans: 16\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:20 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248243784745043",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:16:14.822+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Emarlite](https://tcy.sh/p/2441561)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "76",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "1.27B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 2,364\nCans: 616\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:21 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248327695990874",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:16:34.828+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[_Karl_](https://tcy.sh/p/3213402)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "30",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "2.72M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 480\nCans: 37\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:21 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248537314721793",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:17:24.805+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[JAGGGA](https://tcy.sh/p/2858160)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "67",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "49.68M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 888\nCans: 169\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248579438121102",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:17:34.848+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Kingoracle](https://tcy.sh/p/3268436)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "15",
+              "isInline": true
+            },
+            {
+              "name": "Estimated Stats",
+              "value": "2.72M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 526\nCans: 72\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248622333394996",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:17:45.075+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Apex](https://tcy.sh/p/3056700)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "73",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "351.99M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 1,296\nCans: 149\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248663290515526",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:17:54.84+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Mr-Negative](https://tcy.sh/p/478555)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "50",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "3.82B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 2,560\nCans: 197\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248705393066124",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:18:04.878+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Voxxy](https://tcy.sh/p/3131845)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "42",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "36.58M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 898\nCans: 132\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248747277520906",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:18:14.864+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[DreamKillers](https://tcy.sh/p/2795117)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "66",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "56.13M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 885\nCans: 59\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:23 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248789270630431",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:18:24.876+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Indent](https://tcy.sh/p/2032117)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "100",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "8.92B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 6,577\nCans: 1,515\nSEs: 2",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:23 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248956988260383",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:19:04.863+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Deadpool_as](https://tcy.sh/p/3296040)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "33",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "243.19K",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 218\nCans: 39\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:24 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248958213128243",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:19:05.155+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[WasilWaffle](https://tcy.sh/p/2331700)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "64",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "132.54M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 1,064\nCans: 37\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:24 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345248999011254404",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:19:14.882+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[F8TAL](https://tcy.sh/p/2586998)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "96",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "2.31B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 2,375\nCans: 508\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:24 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345249040656367627",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:19:24.811+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Kaszmietan](https://tcy.sh/p/3225502)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "39",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "804.40K",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 240\nCans: 8\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:24 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1345249166695075860",
+      "type": "Default",
+      "timestamp": "2025-03-01T12:19:54.861+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK - Future Killers • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/tAtjnAAKkTH9izOjRt6Dw1ZEM_SgWeZVF5TTFpZ0814/https/factiontags.torn.com/14821-13344.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Mr_Snugglecurse](https://tcy.sh/p/2968469)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "60",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "7.84M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 787\nCans: 89\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/03/2025 12:24 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1357932291585867936",
+      "type": "Default",
+      "timestamp": "2025-04-05T12:18:07.476+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "PT-Family • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/ws-qK05kRrpV4UTf3vM4jRQb3q_Bcz1j3IC3y8VUK7g/https/factiontags.torn.com/230-31936.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[BongoMabdul](https://tcy.sh/p/2706121)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "95",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "3.26B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 2,972\nCans: 2,449\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "5/04/2025 12:23 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1357932627004227694",
+      "type": "Default",
+      "timestamp": "2025-04-05T12:19:27.446+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "PT-Family • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/ws-qK05kRrpV4UTf3vM4jRQb3q_Bcz1j3IC3y8VUK7g/https/factiontags.torn.com/230-31936.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Yiappy](https://tcy.sh/p/2121826)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "100",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "5.92B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 4,835\nCans: 4,714\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "5/04/2025 12:24 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1360468652318789642",
+      "type": "Default",
+      "timestamp": "2025-04-12T12:16:42.998+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Bloodbath and Beyond • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/2D5t2Plxn7ON9yam93xjfxszVTZwR6BBT2RfMTwoBOI/https/factiontags.torn.com/8468-73266.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Turfdoge](https://tcy.sh/p/2689901)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "89",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "158.31K",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 1,029\nCans: 252\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "12/04/2025 12:21 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1360468694186070159",
+      "type": "Default",
+      "timestamp": "2025-04-12T12:16:52.98+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Bloodbath and Beyond • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/2D5t2Plxn7ON9yam93xjfxszVTZwR6BBT2RfMTwoBOI/https/factiontags.torn.com/8468-73266.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Pernoctate](https://tcy.sh/p/2606120)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "84",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "215.24M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 1,338\nCans: 411\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "12/04/2025 12:21 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1360469029642309773",
+      "type": "Default",
+      "timestamp": "2025-04-12T12:18:12.959+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Bloodbath and Beyond • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/2D5t2Plxn7ON9yam93xjfxszVTZwR6BBT2RfMTwoBOI/https/factiontags.torn.com/8468-73266.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Raviie](https://tcy.sh/p/1371879)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "72",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "3.54B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 4,804\nCans: 244\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "12/04/2025 12:23 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1361193604886040596",
+      "type": "Default",
+      "timestamp": "2025-04-14T12:17:25.159+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Bloodbath and Beyond • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/2D5t2Plxn7ON9yam93xjfxszVTZwR6BBT2RfMTwoBOI/https/factiontags.torn.com/8468-73266.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[TwiztedVision](https://tcy.sh/p/2583299)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "50",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "1.89B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 3,035\nCans: 1,731\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "14/04/2025 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1368078493342236726",
+      "type": "Default",
+      "timestamp": "2025-05-03T12:15:30.482+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Swiss Squad • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Z2EtYzxTGGjN5WEbsc1FcbrG8VXXq22O_s4qhSBQjAM/https/factiontags.torn.com/11428-68372.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Bruisers](https://tcy.sh/p/2885684)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "80",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "615.04M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 2,021\nCans: 2,876\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "3/05/2025 12:20 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1368078787379462154",
+      "type": "Default",
+      "timestamp": "2025-05-03T12:16:40.586+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Swiss Squad • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Z2EtYzxTGGjN5WEbsc1FcbrG8VXXq22O_s4qhSBQjAM/https/factiontags.torn.com/11428-68372.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[King_Shane](https://tcy.sh/p/778383)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "100",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "6.96B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 5,597\nCans: 2,838\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "3/05/2025 12:21 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1368078997174353920",
+      "type": "Default",
+      "timestamp": "2025-05-03T12:17:30.605+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Swiss Squad • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Z2EtYzxTGGjN5WEbsc1FcbrG8VXXq22O_s4qhSBQjAM/https/factiontags.torn.com/11428-68372.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Hat](https://tcy.sh/p/1524830)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "40",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "7.78B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 4,916\nCans: 4,761\nSEs: 44",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "3/05/2025 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1368079081308029049",
+      "type": "Default",
+      "timestamp": "2025-05-03T12:17:50.664+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Swiss Squad • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/Z2EtYzxTGGjN5WEbsc1FcbrG8VXXq22O_s4qhSBQjAM/https/factiontags.torn.com/11428-68372.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[YNWA](https://tcy.sh/p/935765)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "100",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "12.34B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 10,101\nCans: 2,283\nSEs: 25",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "3/05/2025 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1373151885816762369",
+      "type": "Default",
+      "timestamp": "2025-05-17T12:15:21.507+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Natural Selection • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/YhPcWeeOQxKzbqt39Y3gMmUjkxYp0yGzH2ulqQoXLTg/https/factiontags.torn.com/9533-53686.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Busterrdust](https://tcy.sh/p/3663089)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "12",
+              "isInline": true
+            },
+            {
+              "name": "Estimated Stats",
+              "value": "1.30K",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 0\nCans: 1\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "17/05/2025 12:20 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1373152221717336095",
+      "type": "Default",
+      "timestamp": "2025-05-17T12:16:41.592+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Natural Selection • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/YhPcWeeOQxKzbqt39Y3gMmUjkxYp0yGzH2ulqQoXLTg/https/factiontags.torn.com/9533-53686.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[abcd](https://tcy.sh/p/18646)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "100",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "11.37B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 8,804\nCans: 3,514\nSEs: 2",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "17/05/2025 12:21 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1373152347449987092",
+      "type": "Default",
+      "timestamp": "2025-05-17T12:17:11.569+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Natural Selection • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/YhPcWeeOQxKzbqt39Y3gMmUjkxYp0yGzH2ulqQoXLTg/https/factiontags.torn.com/9533-53686.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Eistal](https://tcy.sh/p/1417066)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "36",
+              "isInline": true
+            },
+            {
+              "name": "Estimated Stats",
+              "value": "168.45K",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 11\nCans: 1\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "17/05/2025 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1373152682960879656",
+      "type": "Default",
+      "timestamp": "2025-05-17T12:18:31.561+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Natural Selection • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/YhPcWeeOQxKzbqt39Y3gMmUjkxYp0yGzH2ulqQoXLTg/https/factiontags.torn.com/9533-53686.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Succodexx](https://tcy.sh/p/2805008)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "39",
+              "isInline": true
+            },
+            {
+              "name": "Estimated Stats",
+              "value": "4.60M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 457\nCans: 18\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "17/05/2025 12:23 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1373152767048417452",
+      "type": "Default",
+      "timestamp": "2025-05-17T12:18:51.609+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Natural Selection • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/YhPcWeeOQxKzbqt39Y3gMmUjkxYp0yGzH2ulqQoXLTg/https/factiontags.torn.com/9533-53686.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[muby_real1](https://tcy.sh/p/3677494)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "7",
+              "isInline": true
+            },
+            {
+              "name": "Estimated Stats",
+              "value": "11.11K",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 1\nCans: 0\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "17/05/2025 12:23 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375326169313841192",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:15:11.089+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[spantrakos](https://tcy.sh/p/1720620)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "100",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "2.95B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 2,611\nCans: 1,105\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:20 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375326294769668136",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:15:41+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[TAL32](https://tcy.sh/p/1032659)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "93",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "464.76M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 581\nCans: 369\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:20 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375326420720549968",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:16:11.029+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[AngryKafsha](https://tcy.sh/p/2892169)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "58",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "9.15M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 603\nCans: 48\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:21 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375326588744503378",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:16:51.089+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[dalai_lama](https://tcy.sh/p/15902)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "100",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "6.87B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 3,988\nCans: 1,184\nSEs: 2",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:21 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375326672177598576",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:17:10.981+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Rolo](https://tcy.sh/p/370000)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "80",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "978.84M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 324\nCans: 341\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375326714326024285",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:17:21.03+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Sinus](https://tcy.sh/p/1678537)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "80",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "3.76B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 1,361\nCans: 189\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375326840377315358",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:17:51.083+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[chenriroo](https://tcy.sh/p/2769534)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "89",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "1.34B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 2,210\nCans: 121\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375326965686468609",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:18:20.959+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[WruceBayne](https://tcy.sh/p/3116697)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "73",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "608.63M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 1,510\nCans: 2,328\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:23 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375326967142023168",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:18:21.306+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[White_Soul](https://tcy.sh/p/1044539)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "90",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "4.90B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 3,422\nCans: 1,096\nSEs: 1",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:23 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375326969545232466",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:18:21.879+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[davetim101](https://tcy.sh/p/1026424)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "100",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "6.47B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 3,136\nCans: 925\nSEs: 10",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:23 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375327007889559584",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:18:31.021+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Dampestatom0922](https://tcy.sh/p/2095815)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "80",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "1.42B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 1,937\nCans: 326\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:23 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375327010309537937",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:18:31.598+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[TotteryImpala82](https://tcy.sh/p/3277316)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "51",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "1.18M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 645\nCans: 29\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:23 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375327092303990784",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:18:51.147+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[SpecializeD](https://tcy.sh/p/26376)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "100",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "1.34B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 6,538\nCans: 120\nSEs: 21",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:23 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375327217684320287",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:19:21.04+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[t0m](https://tcy.sh/p/117506)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "100",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "5.56B",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 4,461\nCans: 1,967\nSEs: 1",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:24 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1375327343777808516",
+      "type": "Default",
+      "timestamp": "2025-05-23T12:19:51.103+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "|HT| • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/uZOijicQwxplLkMmIPxtFMfLS6z7EZQhKDBeFEyuq1o/https/factiontags.torn.com/9524-45969.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[JulesP66](https://tcy.sh/p/2523313)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "71",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "875.57M",
+              "isInline": true
+            },
+            {
+              "name": "Values",
+              "value": "Xan: 1,789\nCans: 16\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "23/05/2025 12:24 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1376938793570930788",
+      "type": "Default",
+      "timestamp": "2025-05-27T23:03:10.673+08:00",
+      "timestampEdited": "2025-05-27T23:04:07.146+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "There have been no dibs in the past 30 minutes",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "SMTH - Party Animals • Recently Expired Dibs",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/zhL8oJe6RneZ4TztBaR0G657sVoyWyibwet3e8J3f00/https/factiontags.torn.com/9356-24251.png"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1376938794963439818",
+      "type": "Default",
+      "timestamp": "2025-05-27T23:03:11.005+08:00",
+      "timestampEdited": "2025-05-27T23:04:07.598+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "There are no upcoming dibs to display",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "SMTH - Party Animals • Upcoming Dibs",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/zhL8oJe6RneZ4TztBaR0G657sVoyWyibwet3e8J3f00/https/factiontags.torn.com/9356-24251.png"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378587821601984562",
+      "type": "Default",
+      "timestamp": "2025-06-01T12:15:49.593+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "SMTH - Party Animals • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/zhL8oJe6RneZ4TztBaR0G657sVoyWyibwet3e8J3f00/https/factiontags.torn.com/9356-24251.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[lichking](https://tcy.sh/p/2744848)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "85",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "2.17B",
+              "isInline": true
+            },
+            {
+              "name": "Stats",
+              "value": "Xan: 2,952\nCans: 267\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/06/2025 12:20 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378588073360883732",
+      "type": "Default",
+      "timestamp": "2025-06-01T12:16:49.617+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "SMTH - Party Animals • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/zhL8oJe6RneZ4TztBaR0G657sVoyWyibwet3e8J3f00/https/factiontags.torn.com/9356-24251.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[GoldenSnitch](https://tcy.sh/p/2715408)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "86",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "1.46B",
+              "isInline": true
+            },
+            {
+              "name": "Stats",
+              "value": "Xan: 3,522\nCans: 418\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/06/2025 12:21 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378588282815905886",
+      "type": "Default",
+      "timestamp": "2025-06-01T12:17:39.555+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "SMTH - Party Animals • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/zhL8oJe6RneZ4TztBaR0G657sVoyWyibwet3e8J3f00/https/factiontags.torn.com/9356-24251.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[xyxrxk](https://tcy.sh/p/2957733)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "78",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "421.21M",
+              "isInline": true
+            },
+            {
+              "name": "Stats",
+              "value": "Xan: 1,798\nCans: 209\nSEs: 1",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/06/2025 12:22 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378588869942972488",
+      "type": "Default",
+      "timestamp": "2025-06-01T12:19:59.537+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "SMTH - Party Animals • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/zhL8oJe6RneZ4TztBaR0G657sVoyWyibwet3e8J3f00/https/factiontags.torn.com/9356-24251.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Lucyphil](https://tcy.sh/p/2795975)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "85",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "2.30B",
+              "isInline": true
+            },
+            {
+              "name": "Stats",
+              "value": "Xan: 2,848\nCans: 1,047\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "1/06/2025 12:24 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1390014685197369366",
+      "type": "Default",
+      "timestamp": "2025-07-03T01:02:06.175+08:00",
+      "timestampEdited": "2025-07-03T23:22:11.597+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "There have been no dibs in the past 30 minutes",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Monarch Mutation • Recently Expired Dibs",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/MzMHNxctSh_O6b9MNHMj_jVjEc_mmaYDFPC_6cyKzV4/https/factiontags.torn.com/7835-39645.png"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1390014687156109433",
+      "type": "Default",
+      "timestamp": "2025-07-03T01:02:06.642+08:00",
+      "timestampEdited": "2025-07-03T23:22:12.153+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "There are no upcoming dibs to display",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Monarch Mutation • Upcoming Dibs",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/MzMHNxctSh_O6b9MNHMj_jVjEc_mmaYDFPC_6cyKzV4/https/factiontags.torn.com/7835-39645.png"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1406129394266669098",
+      "type": "Default",
+      "timestamp": "2025-08-16T12:16:12.214+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK 2.1 • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/CvKaWTohfvjvLtEBSoNse74hGc4JzSi9nYF3k0IAU-k/https/factiontags.torn.com/14365-70453.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Fenrir](https://tcy.sh/p/1961735)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "99",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "5.16B",
+              "isInline": true
+            },
+            {
+              "name": "Stats",
+              "value": "Xan: 5,024\nCans: 663\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "16/08/2025 12:21 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1406130185752809572",
+      "type": "Default",
+      "timestamp": "2025-08-16T12:19:20.919+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "JFK 2.1 • Upcoming Hit",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/CvKaWTohfvjvLtEBSoNse74hGc4JzSi9nYF3k0IAU-k/https/factiontags.torn.com/14365-70453.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[Halex](https://tcy.sh/p/2113885)",
+              "isInline": true
+            },
+            {
+              "name": "Level",
+              "value": "83",
+              "isInline": true
+            },
+            {
+              "name": "Spy Total",
+              "value": "1.65B",
+              "isInline": true
+            },
+            {
+              "name": "Stats",
+              "value": "Xan: 1,803\nCans: 808\nSEs: 0",
+              "isInline": true
+            },
+            {
+              "name": "Released",
+              "value": "16/08/2025 12:24 PM",
+              "isInline": true
+            },
+            {
+              "name": "Claimed By",
+              "value": "Nobody",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 77
+}

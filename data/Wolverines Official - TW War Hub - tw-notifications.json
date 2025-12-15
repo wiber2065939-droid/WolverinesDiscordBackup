@@ -1,0 +1,1657 @@
+{
+  "guild": {
+    "id": "650086260253130763",
+    "name": "Wolverines Official",
+    "iconUrl": "https://cdn.discordapp.com/icons/650086260253130763/248df5ee4812c5d6b78c6e10e4d9ebda.png?size=512"
+  },
+  "channel": {
+    "id": "1443367983891353661",
+    "type": "GuildTextChat",
+    "categoryId": "1243662204717240371",
+    "category": "TW War Hub",
+    "name": "tw-notifications",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-12-14T21:41:56.2661747+08:00",
+  "messages": [
+    {
+      "id": "1444330927466483844",
+      "type": "Default",
+      "timestamp": "2025-11-29T22:15:27.479+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-29T22:15:27.356+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • \uD83D\uDCF3 Potential Push \uD83D\uDCF3",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDEC2 Friendly Green Lights",
+              "value": "9 Players",
+              "isInline": true
+            },
+            {
+              "name": "\uD83D\uDC79 Enemy Green Lights",
+              "value": "19 Players",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444332689279811616",
+      "type": "Default",
+      "timestamp": "2025-11-29T22:22:27.528+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-29T22:22:27.356+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • \uD83D\uDCF3 Potential Push \uD83D\uDCF3",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDEC2 Friendly Green Lights",
+              "value": "9 Players",
+              "isInline": true
+            },
+            {
+              "name": "\uD83D\uDC79 Enemy Green Lights",
+              "value": "16 Players",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444372324949430274",
+      "type": "Default",
+      "timestamp": "2025-11-30T00:59:57.408+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T00:59:57.355+08:00",
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Escensio Incursus • Flight Inbound \uD83D\uDEEC",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "footer": {
+            "text": "Alert Sent from Ranked War Module"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[SuspiciousD](https://tcy.sh/p/2653877)",
+              "isInline": true
+            },
+            {
+              "name": "From",
+              "value": "South Africa :flag_sa:",
+              "isInline": true
+            },
+            {
+              "name": "Landing (Est)",
+              "value": "30/11/2025 4:27 AM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444378490634895492",
+      "type": "Default",
+      "timestamp": "2025-11-30T01:24:27.422+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T01:24:27.356+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • \uD83D\uDCF3 Potential Push \uD83D\uDCF3",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDEC2 Friendly Green Lights",
+              "value": "11 Players",
+              "isInline": true
+            },
+            {
+              "name": "\uD83D\uDC79 Enemy Green Lights",
+              "value": "10 Players",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444392331942953163",
+      "type": "Default",
+      "timestamp": "2025-11-30T02:19:27.447+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T02:19:27.356+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • \uD83D\uDCF3 Potential Push \uD83D\uDCF3",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDEC2 Friendly Green Lights",
+              "value": "13 Players",
+              "isInline": true
+            },
+            {
+              "name": "\uD83D\uDC79 Enemy Green Lights",
+              "value": "15 Players",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444394597013917789",
+      "type": "Default",
+      "timestamp": "2025-11-30T02:28:27.482+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T02:28:27.355+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • \uD83D\uDCF3 Potential Push \uD83D\uDCF3",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDEC2 Friendly Green Lights",
+              "value": "10 Players",
+              "isInline": true
+            },
+            {
+              "name": "\uD83D\uDC79 Enemy Green Lights",
+              "value": "11 Players",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444396358688833570",
+      "type": "Default",
+      "timestamp": "2025-11-30T02:35:27.498+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T02:35:27.356+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • \uD83D\uDCF3 Potential Push \uD83D\uDCF3",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDEC2 Friendly Green Lights",
+              "value": "6 Players",
+              "isInline": true
+            },
+            {
+              "name": "\uD83D\uDC79 Enemy Green Lights",
+              "value": "17 Players",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444400888390356992",
+      "type": "Default",
+      "timestamp": "2025-11-30T02:53:27.463+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T02:53:27.356+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • \uD83D\uDCF3 Potential Push \uD83D\uDCF3",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDEC2 Friendly Green Lights",
+              "value": "5 Players",
+              "isInline": true
+            },
+            {
+              "name": "\uD83D\uDC79 Enemy Green Lights",
+              "value": "14 Players",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444403153687810121",
+      "type": "Default",
+      "timestamp": "2025-11-30T03:02:27.552+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T03:02:27.356+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • \uD83D\uDCF3 Potential Push \uD83D\uDCF3",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDEC2 Friendly Green Lights",
+              "value": "8 Players",
+              "isInline": true
+            },
+            {
+              "name": "\uD83D\uDC79 Enemy Green Lights",
+              "value": "12 Players",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444407431378763889",
+      "type": "Default",
+      "timestamp": "2025-11-30T03:19:27.433+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T03:19:27.356+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • \uD83D\uDCF3 Potential Push \uD83D\uDCF3",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDEC2 Friendly Green Lights",
+              "value": "9 Players",
+              "isInline": true
+            },
+            {
+              "name": "\uD83D\uDC79 Enemy Green Lights",
+              "value": "11 Players",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444409696755646607",
+      "type": "Default",
+      "timestamp": "2025-11-30T03:28:27.541+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T03:28:27.357+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • \uD83D\uDCF3 Potential Push \uD83D\uDCF3",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDEC2 Friendly Green Lights",
+              "value": "10 Players",
+              "isInline": true
+            },
+            {
+              "name": "\uD83D\uDC79 Enemy Green Lights",
+              "value": "17 Players",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444414729572454431",
+      "type": "Default",
+      "timestamp": "2025-11-30T03:48:27.458+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T03:48:27.356+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • \uD83D\uDCF3 Potential Push \uD83D\uDCF3",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDEC2 Friendly Green Lights",
+              "value": "11 Players",
+              "isInline": true
+            },
+            {
+              "name": "\uD83D\uDC79 Enemy Green Lights",
+              "value": "13 Players",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444416491129802975",
+      "type": "Default",
+      "timestamp": "2025-11-30T03:55:27.446+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T03:55:27.356+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • \uD83D\uDCF3 Potential Push \uD83D\uDCF3",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDEC2 Friendly Green Lights",
+              "value": "10 Players",
+              "isInline": true
+            },
+            {
+              "name": "\uD83D\uDC79 Enemy Green Lights",
+              "value": "15 Players",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444418525547724982",
+      "type": "Default",
+      "timestamp": "2025-11-30T04:03:32.489+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T04:03:32.356+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • \uD83D\uDCF3 Potential Push \uD83D\uDCF3",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDEC2 Friendly Green Lights",
+              "value": "13 Players",
+              "isInline": true
+            },
+            {
+              "name": "\uD83D\uDC79 Enemy Green Lights",
+              "value": "16 Players",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444420517749592276",
+      "type": "Default",
+      "timestamp": "2025-11-30T04:11:27.467+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T04:11:27.356+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • \uD83D\uDCF3 Potential Push \uD83D\uDCF3",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDEC2 Friendly Green Lights",
+              "value": "13 Players",
+              "isInline": true
+            },
+            {
+              "name": "\uD83D\uDC79 Enemy Green Lights",
+              "value": "26 Players",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444426914038288484",
+      "type": "Default",
+      "timestamp": "2025-11-30T04:36:52.461+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T04:36:52.356+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • Enemy Chain Bonus Landed \uD83D\uDCAF",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Bonus Hit",
+              "value": "40",
+              "isInline": true
+            },
+            {
+              "name": "Bonus Respect",
+              "value": "+40",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444430437987520542",
+      "type": "Default",
+      "timestamp": "2025-11-30T04:50:52.636+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T04:50:52.356+08:00",
+          "description": "",
+          "color": "#E43434",
+          "author": {
+            "name": "Escensio Incursus • Enemy Chain Bonus Near ⚠️",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Chain Length",
+              "value": "Nearing 50 Bonus",
+              "isInline": true
+            },
+            {
+              "name": "Hits to Go",
+              "value": "9",
+              "isInline": true
+            },
+            {
+              "name": "Bonus Respect",
+              "value": "+40",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444431947177660447",
+      "type": "Default",
+      "timestamp": "2025-11-30T04:56:52.455+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T04:56:52.358+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • Enemy Chain Bonus Landed \uD83D\uDCAF",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Bonus Hit",
+              "value": "80",
+              "isInline": true
+            },
+            {
+              "name": "Bonus Respect",
+              "value": "+80",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444437986757574769",
+      "type": "Default",
+      "timestamp": "2025-11-30T05:20:52.403+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T05:20:52.356+08:00",
+          "description": "",
+          "color": "#E43434",
+          "author": {
+            "name": "Escensio Incursus • Enemy Chain Bonus Near ⚠️",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Chain Length",
+              "value": "Nearing 100 Bonus",
+              "isInline": true
+            },
+            {
+              "name": "Hits to Go",
+              "value": "10",
+              "isInline": true
+            },
+            {
+              "name": "Bonus Respect",
+              "value": "+80",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444440252063289405",
+      "type": "Default",
+      "timestamp": "2025-11-30T05:29:52.494+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T05:29:52.355+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • Enemy Chain Bonus Landed \uD83D\uDCAF",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Bonus Hit",
+              "value": "160",
+              "isInline": true
+            },
+            {
+              "name": "Bonus Respect",
+              "value": "+160",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444447298380759120",
+      "type": "Default",
+      "timestamp": "2025-11-30T05:57:52.467+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T05:57:52.356+08:00",
+          "description": "",
+          "color": "#E43434",
+          "author": {
+            "name": "Escensio Incursus • Enemy Chain Bonus Near ⚠️",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Chain Length",
+              "value": "Nearing 250 Bonus",
+              "isInline": true
+            },
+            {
+              "name": "Hits to Go",
+              "value": "14",
+              "isInline": true
+            },
+            {
+              "name": "Bonus Respect",
+              "value": "+160",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444447550277947594",
+      "type": "Default",
+      "timestamp": "2025-11-30T05:58:52.524+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T05:58:52.355+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • Enemy Chain Bonus Landed \uD83D\uDCAF",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Bonus Hit",
+              "value": "320",
+              "isInline": true
+            },
+            {
+              "name": "Bonus Respect",
+              "value": "+320",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444450339242774610",
+      "type": "Default",
+      "timestamp": "2025-11-30T06:09:57.465+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T06:09:57.356+08:00",
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "Escensio Incursus • Flight Inbound \uD83D\uDEEC",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "footer": {
+            "text": "Alert Sent from Ranked War Module"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Player",
+              "value": "[JERM](https://tcy.sh/p/3126226)",
+              "isInline": true
+            },
+            {
+              "name": "From",
+              "value": "South Africa :flag_sa:",
+              "isInline": true
+            },
+            {
+              "name": "Landing (Est)",
+              "value": "30/11/2025 9:37 AM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444465669906239609",
+      "type": "Default",
+      "timestamp": "2025-11-30T07:10:52.58+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T07:10:52.356+08:00",
+          "description": "",
+          "color": "#E43434",
+          "author": {
+            "name": "Escensio Incursus • Enemy Chain Bonus Near ⚠️",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Chain Length",
+              "value": "Nearing 500 Bonus",
+              "isInline": true
+            },
+            {
+              "name": "Hits to Go",
+              "value": "25",
+              "isInline": true
+            },
+            {
+              "name": "Bonus Respect",
+              "value": "+320",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444468186077597726",
+      "type": "Default",
+      "timestamp": "2025-11-30T07:20:52.482+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T07:20:52.356+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • Enemy Chain Bonus Landed \uD83D\uDCAF",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Bonus Hit",
+              "value": "640",
+              "isInline": true
+            },
+            {
+              "name": "Bonus Respect",
+              "value": "+640",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444506689276743754",
+      "type": "Default",
+      "timestamp": "2025-11-30T09:53:52.36+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T09:53:52.355+08:00",
+          "description": "",
+          "color": "#E43434",
+          "author": {
+            "name": "Escensio Incursus • Enemy Chain Bonus Near ⚠️",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Chain Length",
+              "value": "Nearing 1000 Bonus",
+              "isInline": true
+            },
+            {
+              "name": "Hits to Go",
+              "value": "50",
+              "isInline": true
+            },
+            {
+              "name": "Bonus Respect",
+              "value": "+640",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1444510967655305391",
+      "type": "Default",
+      "timestamp": "2025-11-30T10:10:52.405+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": "2025-11-30T10:10:52.355+08:00",
+          "description": "",
+          "color": "#EBC034",
+          "author": {
+            "name": "Escensio Incursus • Enemy Chain Bonus Landed \uD83D\uDCAF",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/S4yyTO6zRd7rWbmbSFbBY8dtO3jW2usEyoj5wJzaVbA/https/factiontags.torn.com/21368-14842.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Bonus Hit",
+              "value": "1,280",
+              "isInline": true
+            },
+            {
+              "name": "Bonus Respect",
+              "value": "+1,280",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 27
+}

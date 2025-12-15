@@ -1,0 +1,402 @@
+{
+  "guild": {
+    "id": "650086260253130763",
+    "name": "Wolverines Official",
+    "iconUrl": "https://cdn.discordapp.com/icons/650086260253130763/248df5ee4812c5d6b78c6e10e4d9ebda.png?size=512"
+  },
+  "channel": {
+    "id": "1243662982161109043",
+    "type": "GuildTextChat",
+    "categoryId": "1243662204717240371",
+    "category": "TW War Hub",
+    "name": "tw-friendly-displays",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-12-14T21:41:59.8830468+08:00",
+  "messages": [
+    {
+      "id": "1443369227099836536",
+      "type": "Default",
+      "timestamp": "2025-11-27T06:34:00.244+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "22 Players Online & Okay :online:",
+          "url": null,
+          "timestamp": "2025-11-27T06:34:00.12+08:00",
+          "description": "[100] [Ninjahobo](https://tcy.sh/p/70516)\n[100] [Usephius](https://tcy.sh/p/2682577)\n[97] [Chrisko](https://tcy.sh/p/2565476)\n[100] [dlothar](https://tcy.sh/p/151337)\n[100] [Rasselbock](https://tcy.sh/p/2438366)\n[90] [Hounter](https://tcy.sh/p/525932)\n[100] [KingLouisCLXXII](https://tcy.sh/p/2070312)\n[100] [Ed_Armitage](https://tcy.sh/p/603074)\n[100] [GhostPanda](https://tcy.sh/p/2066190)\n[100] [Kiraniata](https://tcy.sh/p/325066)\n[100] [MightyGoober](https://tcy.sh/p/812478)\n[100] [Stiny](https://tcy.sh/p/992186)\n[100] [Zugworth](https://tcy.sh/p/2188900)\n[100] [Aesir](https://tcy.sh/p/1980547)\n[90] [Nina2639](https://tcy.sh/p/1997210)\n[100] [Defiance6410](https://tcy.sh/p/2215909)\n[100] [Wiber](https://tcy.sh/p/2065939)\n[100] [EquilibriuM_](https://tcy.sh/p/654408)\n[90] [Agent8086](https://tcy.sh/p/573322)\n[100] [BigNemesis](https://tcy.sh/p/74296)\n[99] [itay](https://tcy.sh/p/427959)\n[100] [shwibbing](https://tcy.sh/p/575512)",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Wolverines",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/FFrdNsyQTslxSf9WFxl3pKoAkAgWld64c_696wgJhGY/https/factiontags.torn.com/22781-5116.png"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1443369228316049449",
+      "type": "Default",
+      "timestamp": "2025-11-27T06:34:00.534+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "68 Offline & Okay Players :offline:",
+          "url": null,
+          "timestamp": "2025-11-27T06:34:00.469+08:00",
+          "description": "[100] [_mattman](https://tcy.sh/p/182780) • Seen 27/11/2025 6:29 AM\n[100] [rhd-](https://tcy.sh/p/2089434) • Seen 27/11/2025 6:27 AM\n[25] [cocky](https://tcy.sh/p/1832358) • Seen 27/11/2025 6:26 AM\n[100] [Chronology](https://tcy.sh/p/290441) • Seen 27/11/2025 6:26 AM\n[100] [BadAssBlue](https://tcy.sh/p/2277180) • Seen 27/11/2025 6:25 AM\n[99] [m140](https://tcy.sh/p/2492504) • Seen 27/11/2025 6:20 AM\n[100] [DeKleineKobini](https://tcy.sh/p/2114440) • Seen 27/11/2025 6:20 AM\n[100] [TheWhiteBunny](https://tcy.sh/p/2415857) • Seen 27/11/2025 6:19 AM\n[100] [Knight_Errant](https://tcy.sh/p/2174865) • Seen 27/11/2025 6:17 AM\n[100] [VII](https://tcy.sh/p/420120) • Seen 27/11/2025 6:17 AM\n[100] [Crawford](https://tcy.sh/p/607550) • Seen 27/11/2025 6:13 AM\n[98] [Dryroastednuttz](https://tcy.sh/p/2335136) • Seen 27/11/2025 6:13 AM\n[100] [Violience](https://tcy.sh/p/430277) • Seen 27/11/2025 6:12 AM\n[99] [GigiNaSir](https://tcy.sh/p/2407268) • Seen 27/11/2025 6:12 AM\n[98] [Yowzer](https://tcy.sh/p/2190778) • Seen 27/11/2025 6:12 AM\n[100] [DJYASH](https://tcy.sh/p/253773) • Seen 27/11/2025 6:11 AM\n[91] [Yuri-Vodka](https://tcy.sh/p/2742678) • Seen 27/11/2025 6:10 AM\n[100] [Strelok](https://tcy.sh/p/1162052) • Seen 27/11/2025 6:10 AM\n[100] [Kapten](https://tcy.sh/p/829679) • Seen 27/11/2025 6:04 AM\n[100] [karmainall](https://tcy.sh/p/1769923) • Seen 27/11/2025 6:04 AM\n[100] [jes](https://tcy.sh/p/1857585) • Seen 27/11/2025 6:03 AM\n[100] [AssMilker](https://tcy.sh/p/1823867) • Seen 27/11/2025 6:03 AM\n[100] [SIMP_Police](https://tcy.sh/p/867871) • Seen 27/11/2025 6:02 AM\n[80] [Sheepie](https://tcy.sh/p/2598231) • Seen 27/11/2025 5:55 AM\n[100] [Threadbare](https://tcy.sh/p/1683696) • Seen 27/11/2025 5:54 AM\n[100] [Steem](https://tcy.sh/p/2316142) • Seen 27/11/2025 5:53 AM\n[99] [DJStone](https://tcy.sh/p/1723047) • Seen 27/11/2025 5:50 AM\n[100] [Nebu](https://tcy.sh/p/1865291) • Seen 27/11/2025 5:49 AM\n[100] [dekleric](https://tcy.sh/p/720290) • Seen 27/11/2025 5:44 AM\n[100] [TheMojzesz](https://tcy.sh/p/2010440) • Seen 27/11/2025 5:39 AM\n[96] [Prevalence](https://tcy.sh/p/2825160) • Seen 27/11/2025 5:39 AM\n[90] [MuddBaal](https://tcy.sh/p/2512285) • Seen 27/11/2025 5:35 AM\n[98] [_Killerpit4e_](https://tcy.sh/p/901866) • Seen 27/11/2025 5:32 AM\n[100] [TheAlphaMale](https://tcy.sh/p/181340) • Seen 27/11/2025 5:20 AM\n[86] [Speedball](https://tcy.sh/p/691329) • Seen 27/11/2025 5:19 AM\n[99] [T-29](https://tcy.sh/p/713869) • Seen 27/11/2025 5:16 AM\n[100] [Alba_Gu_Brath](https://tcy.sh/p/2172443) • Seen 27/11/2025 5:11 AM\n[100] [LittleMac](https://tcy.sh/p/937501) • Seen 27/11/2025 4:59 AM\n[100] [Ac3to](https://tcy.sh/p/2196357) • Seen 27/11/2025 4:47 AM\n[100] [ForesterISR](https://tcy.sh/p/2529142) • Seen 27/11/2025 4:32 AM\n[96] [corpheus](https://tcy.sh/p/1423268) • Seen 27/11/2025 4:30 AM\n[100] [Salvatore87](https://tcy.sh/p/187808) • Seen 27/11/2025 4:24 AM\n[90] [Elazar](https://tcy.sh/p/202551) • Seen 27/11/2025 4:20 AM\n[100] [Harvey_Nobum](https://tcy.sh/p/2215608) • Seen 27/11/2025 4:15 AM\n[100] [M3ll0w](https://tcy.sh/p/1471417) • Seen 27/11/2025 3:55 AM\n[92] [Mechanique](https://tcy.sh/p/1169797) • Seen 27/11/2025 3:35 AM\n[100] [Tyrion](https://tcy.sh/p/1967379) • Seen 27/11/2025 3:27 AM\n[100] [Wrath](https://tcy.sh/p/2137380) • Seen 27/11/2025 3:21 AM\n[100] [MacDaddySpoons](https://tcy.sh/p/2155726) • Seen 27/11/2025 3:18 AM\n[100] [Joker202](https://tcy.sh/p/278896) • Seen 27/11/2025 2:58 AM\n[100] [Zer0CooL](https://tcy.sh/p/298394) • Seen 27/11/2025 2:57 AM\n[100] [_Abaddon_](https://tcy.sh/p/1617737) • Seen 27/11/2025 2:42 AM\n[100] [Cosmic](https://tcy.sh/p/2090451) • Seen 27/11/2025 2:29 AM\n[100] [Pampa](https://tcy.sh/p/46937) • Seen 27/11/2025 2:08 AM\n[100] [oddy](https://tcy.sh/p/1699924) • Seen 27/11/2025 1:29 AM\n[100] [iXianG](https://tcy.sh/p/1101456) • Seen 27/11/2025 12:30 AM\n[95] [Woland09](https://tcy.sh/p/2333519) • Seen 27/11/2025 12:18 AM\n[100] [Redlags](https://tcy.sh/p/64877) • Seen 27/11/2025 12:18 AM\n[100] [Elixir_Dreamer](https://tcy.sh/p/2583892) • Seen 27/11/2025 12:08 AM\n*And 9 more...*",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Wolverines",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/FFrdNsyQTslxSf9WFxl3pKoAkAgWld64c_696wgJhGY/https/factiontags.torn.com/22781-5116.png"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1443369230597754962",
+      "type": "Default",
+      "timestamp": "2025-11-27T06:34:01.078+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "1 Leaving Hospital :hosped:",
+          "url": null,
+          "timestamp": "2025-11-27T06:34:00.93+08:00",
+          "description": "[100] [Ravenix](https://tcy.sh/p/2513780) • Discharged 27/11/2025 7:40 AM",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Wolverines • Player Tracking",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/FFrdNsyQTslxSf9WFxl3pKoAkAgWld64c_696wgJhGY/https/factiontags.torn.com/22781-5116.png"
+          },
+          "footer": {
+            "text": "Traveling players are hidden"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1443369232565014608",
+      "type": "Default",
+      "timestamp": "2025-11-27T06:34:01.547+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "43 Revivable Players \uD83D\uDC89",
+          "url": null,
+          "timestamp": "2025-11-27T06:34:01.33+08:00",
+          "description": "[100] [dlothar](https://tcy.sh/p/151337) • Seen 27/11/2025 6:32 AM\n[100] [Kamarade](https://tcy.sh/p/2139176) • Seen 27/11/2025 6:31 AM\n[100] [_mattman](https://tcy.sh/p/182780) • Seen 27/11/2025 6:29 AM\n[100] [Chronology](https://tcy.sh/p/290441) • Seen 27/11/2025 6:26 AM\n[99] [m140](https://tcy.sh/p/2492504) • Seen 27/11/2025 6:20 AM\n[100] [VII](https://tcy.sh/p/420120) • Seen 27/11/2025 6:17 AM\n[100] [Kiraniata](https://tcy.sh/p/325066) • Seen 27/11/2025 6:14 AM\n[100] [Crawford](https://tcy.sh/p/607550) • Seen 27/11/2025 6:13 AM\n[100] [Violience](https://tcy.sh/p/430277) • Seen 27/11/2025 6:12 AM\n[98] [Yowzer](https://tcy.sh/p/2190778) • Seen 27/11/2025 6:12 AM\n[100] [MightyGoober](https://tcy.sh/p/812478) • Seen 27/11/2025 6:11 AM\n[100] [Strelok](https://tcy.sh/p/1162052) • Seen 27/11/2025 6:10 AM\n[100] [SIMP_Police](https://tcy.sh/p/867871) • Seen 27/11/2025 6:02 AM\n[100] [Steem](https://tcy.sh/p/2316142) • Seen 27/11/2025 5:53 AM\n[100] [Zugworth](https://tcy.sh/p/2188900) • Seen 27/11/2025 5:51 AM\n[100] [TheMojzesz](https://tcy.sh/p/2010440) • Seen 27/11/2025 5:39 AM\n[90] [Nina2639](https://tcy.sh/p/1997210) • Seen 27/11/2025 5:37 AM\n\uD83C\uDDE8\uD83C\uDDED [100] [Defiance6410](https://tcy.sh/p/2215909) • Seen 27/11/2025 5:36 AM\n[90] [MuddBaal](https://tcy.sh/p/2512285) • Seen 27/11/2025 5:35 AM\n[98] [_Killerpit4e_](https://tcy.sh/p/901866) • Seen 27/11/2025 5:32 AM\n[100] [TheAlphaMale](https://tcy.sh/p/181340) • Seen 27/11/2025 5:20 AM\n[99] [T-29](https://tcy.sh/p/713869) • Seen 27/11/2025 5:16 AM\n[100] [EquilibriuM_](https://tcy.sh/p/654408) • Seen 27/11/2025 5:08 AM\n[100] [LittleMac](https://tcy.sh/p/937501) • Seen 27/11/2025 4:59 AM\n[100] [Salvatore87](https://tcy.sh/p/187808) • Seen 27/11/2025 4:24 AM\n[90] [Elazar](https://tcy.sh/p/202551) • Seen 27/11/2025 4:20 AM\n[90] [Agent8086](https://tcy.sh/p/573322) • Seen 27/11/2025 4:13 AM\n[92] [Mechanique](https://tcy.sh/p/1169797) • Seen 27/11/2025 3:35 AM\n[100] [Wrath](https://tcy.sh/p/2137380) • Seen 27/11/2025 3:21 AM\n[100] [MacDaddySpoons](https://tcy.sh/p/2155726) • Seen 27/11/2025 3:18 AM\n[100] [Joker202](https://tcy.sh/p/278896) • Seen 27/11/2025 2:58 AM\n[100] [Cosmic](https://tcy.sh/p/2090451) • Seen 27/11/2025 2:29 AM\n[100] [Pampa](https://tcy.sh/p/46937) • Seen 27/11/2025 2:08 AM\n[100] [iXianG](https://tcy.sh/p/1101456) • Seen 27/11/2025 12:30 AM\n[95] [Woland09](https://tcy.sh/p/2333519) • Seen 27/11/2025 12:18 AM\n[100] [Elixir_Dreamer](https://tcy.sh/p/2583892) • Seen 27/11/2025 12:08 AM\n[99] [itay](https://tcy.sh/p/427959) • Seen 26/11/2025 11:23 PM\n[100] [shwibbing](https://tcy.sh/p/575512) • Seen 26/11/2025 9:16 PM\n[99] [Logan-](https://tcy.sh/p/2413203) • Seen 26/11/2025 9:03 PM\n[99] [xMiguelx](https://tcy.sh/p/1005953) • Seen 26/11/2025 7:41 PM\n[100] [Recon](https://tcy.sh/p/300342) • Seen 26/11/2025 4:56 PM\n[100] [SashaFierce](https://tcy.sh/p/1648551) • Seen 26/11/2025 11:26 AM\n[100] [Focus-](https://tcy.sh/p/1741291) • Seen 22/11/2025 12:50 AM",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Wolverines • Player Tracking",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/FFrdNsyQTslxSf9WFxl3pKoAkAgWld64c_696wgJhGY/https/factiontags.torn.com/22781-5116.png"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "\uD83C\uDDE8\uD83C\uDDED",
+              "code": "flag_ch",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e8-1f1ed.svg"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1443369233982427136",
+      "type": "Default",
+      "timestamp": "2025-11-27T06:34:01.885+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Recent Overdoses :drug5:",
+          "url": null,
+          "timestamp": "2025-11-27T06:34:01.773+08:00",
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Wolverines",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/FFrdNsyQTslxSf9WFxl3pKoAkAgWld64c_696wgJhGY/https/factiontags.torn.com/22781-5116.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Xanax",
+              "value": ":drug5: [Woland09](https://tcy.sh/p/2333519) • Expires 27/11/2025 6:56 PM\n:drug5: [karmainall](https://tcy.sh/p/1769923) • Expires 28/11/2025 6:01 AM",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1443369235551092776",
+      "type": "Default",
+      "timestamp": "2025-11-27T06:34:02.259+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "7 Traveling Players :traveling:",
+          "url": null,
+          "timestamp": "2025-11-27T06:34:02.07+08:00",
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Wolverines • Player Tracking",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/FFrdNsyQTslxSf9WFxl3pKoAkAgWld64c_696wgJhGY/https/factiontags.torn.com/22781-5116.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Canada \uD83C\uDDE8\uD83C\uDDE6",
+              "value": ":traveling: 1 person is flying here",
+              "isInline": false
+            },
+            {
+              "name": "United Kingdom \uD83C\uDDEC\uD83C\uDDE7",
+              "value": "1 person is  here",
+              "isInline": false
+            },
+            {
+              "name": "Switzerland \uD83C\uDDE8\uD83C\uDDED",
+              "value": ":traveling: 2 people are flying here\n 1 person is  here",
+              "isInline": false
+            },
+            {
+              "name": "Japan \uD83C\uDDEF\uD83C\uDDF5",
+              "value": ":traveling: 1 person is flying here",
+              "isInline": false
+            },
+            {
+              "name": "South Africa :flag_sa:",
+              "value": ":traveling: 1 person is flying here",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1443369254593364059",
+      "type": "Default",
+      "timestamp": "2025-11-27T06:34:06.799+08:00",
+      "timestampEdited": "2025-11-27T06:35:34.431+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Jail Time Remaining :jail:",
+          "url": null,
+          "timestamp": "2025-11-27T06:35:34.306+08:00",
+          "description": "There are currently no players in jail to display",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Wolverines",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/FFrdNsyQTslxSf9WFxl3pKoAkAgWld64c_696wgJhGY/https/factiontags.torn.com/22781-5116.png"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 7
+}

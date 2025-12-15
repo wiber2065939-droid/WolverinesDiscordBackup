@@ -1,0 +1,4699 @@
+{
+  "guild": {
+    "id": "650086260253130763",
+    "name": "Wolverines Official",
+    "iconUrl": "https://cdn.discordapp.com/icons/650086260253130763/248df5ee4812c5d6b78c6e10e4d9ebda.png?size=512"
+  },
+  "channel": {
+    "id": "1167215963981238392",
+    "type": "GuildTextChat",
+    "categoryId": "1243662204717240371",
+    "category": "TW War Hub",
+    "name": "tw-chain-watch",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-12-14T21:42:03.11007+08:00",
+  "messages": [
+    {
+      "id": "1167222564674875445",
+      "type": "20",
+      "timestamp": "2023-10-27T06:05:45.365+08:00",
+      "timestampEdited": "2023-10-27T06:05:56.578+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#E4EBE8",
+          "author": {
+            "name": "The Wolverines [22781] • Ranked War Tracking",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/FFrdNsyQTslxSf9WFxl3pKoAkAgWld64c_696wgJhGY/https/factiontags.torn.com/22781-5116.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Settings",
+              "value": "Dibs Per Member: 1\nDibs Time: 5 minutes (300)",
+              "isInline": true
+            },
+            {
+              "name": "Billing",
+              "value": "Coming Soon!",
+              "isInline": true
+            },
+            {
+              "name": "Channels",
+              "value": "Primary Display Channel: #tw-primary-displays\nSecondary Display Channel: #tw-secondary-displays\nNotification Channel: #tw-war-hub\nDibs Channel: #tw-dibs",
+              "isInline": false
+            },
+            {
+              "name": "Roles",
+              "value": "Push Ping Role: Not Configured\nChain Ping Role: Not Configured\nFlight Ping Role: Not Configured",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1167222564117032970",
+        "name": "track factions",
+        "user": {
+          "id": "566389948433825814",
+          "name": "badassblue",
+          "discriminator": "0000",
+          "nickname": "BadAssBlue [2277180]",
+          "color": "#369876",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1164556752688267344",
+              "name": "Mini Witch",
+              "color": null,
+              "position": 68
+            },
+            {
+              "id": "650088877943685126",
+              "name": "Leadership",
+              "color": "#369876",
+              "position": 67
+            },
+            {
+              "id": "850430340099080222",
+              "name": "TW Leadership",
+              "color": "#1ABC9C",
+              "position": 66
+            },
+            {
+              "id": "850430073998671904",
+              "name": "WR Leadership",
+              "color": "#1ABC9C",
+              "position": 65
+            },
+            {
+              "id": "1094880259763081226",
+              "name": "Recruiter",
+              "color": "#206694",
+              "position": 49
+            },
+            {
+              "id": "650089311244517386",
+              "name": "WR",
+              "color": "#CCCCCC",
+              "position": 47
+            },
+            {
+              "id": "796044336777003068",
+              "name": "Wolverines",
+              "color": null,
+              "position": 44
+            },
+            {
+              "id": "940633975108542524",
+              "name": "Stocks",
+              "color": "#71368A",
+              "position": 31
+            },
+            {
+              "id": "941000448658243655",
+              "name": "Stocks Huge Transaction",
+              "color": "#2ECC71",
+              "position": 30
+            },
+            {
+              "id": "941000432879304724",
+              "name": "Stocks Large Transaction",
+              "color": "#2ECC71",
+              "position": 29
+            },
+            {
+              "id": "941000406119616553",
+              "name": "Stocks Medium Transaction",
+              "color": "#2ECC71",
+              "position": 28
+            },
+            {
+              "id": "941000380626649119",
+              "name": "Stocks Small Transaction",
+              "color": "#2ECC71",
+              "position": 27
+            },
+            {
+              "id": "1159539206037712916",
+              "name": "Big Als Double Disable",
+              "color": "#2ECC71",
+              "position": 26
+            },
+            {
+              "id": "1159539294348783646",
+              "name": "Big Als Single Disable",
+              "color": "#2ECC71",
+              "position": 25
+            },
+            {
+              "id": "1160653956482084934",
+              "name": "Giveaways",
+              "color": "#2ECC71",
+              "position": 24
+            },
+            {
+              "id": "1322662900959154247",
+              "name": "Banker TW",
+              "color": "#71368A",
+              "position": 23
+            },
+            {
+              "id": "1180994908207714324",
+              "name": "OCs TW",
+              "color": "#71368A",
+              "position": 22
+            },
+            {
+              "id": "1181093720976797696",
+              "name": "OCs WR",
+              "color": "#71368A",
+              "position": 20
+            },
+            {
+              "id": "1160655343072841828",
+              "name": "Retals",
+              "color": "#71368A",
+              "position": 15
+            },
+            {
+              "id": "1160653146159321108",
+              "name": "Buster",
+              "color": "#71368A",
+              "position": 12
+            },
+            {
+              "id": "1167218077012865044",
+              "name": "Chain Watcher",
+              "color": "#71368A",
+              "position": 11
+            },
+            {
+              "id": "762171719900987423",
+              "name": "Giveaway Hoster",
+              "color": "#71368A",
+              "position": 10
+            },
+            {
+              "id": "650100703838208032",
+              "name": "Verified",
+              "color": "#C27C0E",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/566389948433825814/c260694d92ca357c555825af0e23b7a8.png?size=512"
+        }
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1167669971988525057",
+      "type": "Default",
+      "timestamp": "2023-10-28T11:43:35.581+08:00",
+      "timestampEdited": "2023-10-28T12:01:36.138+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1167673985010507946",
+          "url": "https://cdn.discordapp.com/attachments/1167215963981238392/1167673985010507946/chain-650086260253130763-chain-22781.png?ex=693f87a4&is=693e3624&hm=2704bfa3fe3ab9ec05e95c2a2bbe496878493959241c1b68017164d1aaa0ba58&",
+          "fileName": "chain-650086260253130763-chain-22781.png",
+          "fileSizeBytes": 191485
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2023-10-28T12:01:27+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Wednesday, 25 October 2023 8:48:34 PM, 25/10/2023 8:48 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1167674504512819291/chain-650086260253130763-chain-22781.png?ex=693f8820&is=693e36a0&hm=0e220e56837e761f8932f1391e67efab6cf4cb6b0927a94e40cd4385bf476b22&",
+            "width": 2643,
+            "height": 1972
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1167674504512819291/chain-650086260253130763-chain-22781.png?ex=693f8820&is=693e36a0&hm=0e220e56837e761f8932f1391e67efab6cf4cb6b0927a94e40cd4385bf476b22&",
+              "width": 2643,
+              "height": 1972
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "17,765",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "25,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.81",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "4.39 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "2.12 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "30/10/2023 8:38 PM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1167674754065514566",
+      "type": "Default",
+      "timestamp": "2023-10-28T12:02:35.717+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2023-10-28T12:02:27+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Wednesday, 25 October 2023 8:48:34 PM, 25/10/2023 8:48 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1167674754560446545/chain-650086260253130763-chain-22781.png?ex=693f885b&is=693e36db&hm=611445a5e184b691286ca95d4147e675f16d13aa3e70a8605cd61d78e69291d5&",
+            "width": 2643,
+            "height": 1972
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1167674754560446545/chain-650086260253130763-chain-22781.png?ex=693f885b&is=693e36db&hm=611445a5e184b691286ca95d4147e675f16d13aa3e70a8605cd61d78e69291d5&",
+              "width": 2643,
+              "height": 1972
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "17,771",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "25,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.81",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "4.39 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "2.12 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "30/10/2023 8:38 PM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1167792786699976784",
+      "type": "Default",
+      "timestamp": "2023-10-28T19:51:36.89+08:00",
+      "timestampEdited": "2023-10-28T19:57:35.841+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2023-10-28T19:57:30+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Wednesday, 25 October 2023 8:48:34 PM, 25/10/2023 8:48 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1167794292601929778/chain-650086260253130763-chain-22781.png?ex=693ff7af&is=693ea62f&hm=3bc7b3f44d8f2da5382bc3f2bdea084269fb79e26379d512cf847ece860354d7&",
+            "width": 2643,
+            "height": 1972
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1167794292601929778/chain-650086260253130763-chain-22781.png?ex=693ff7af&is=693ea62f&hm=3bc7b3f44d8f2da5382bc3f2bdea084269fb79e26379d512cf847ece860354d7&",
+              "width": 2643,
+              "height": 1972
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "19,608",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "25,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.82",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "4.29 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "4.38 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "29/10/2023 3:45 PM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1167975280233676884",
+      "type": "Default",
+      "timestamp": "2023-10-29T07:56:46.739+08:00",
+      "timestampEdited": "2023-10-29T08:06:43.262+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1167977545371754516",
+          "url": "https://cdn.discordapp.com/attachments/1167215963981238392/1167977545371754516/chain-650086260253130763-chain-22781.png?ex=693ff99a&is=693ea81a&hm=a96a7880f94d625064c9e49822a28fc7de0f9e95bf8bad2272162dbbd00986d9&",
+          "fileName": "chain-650086260253130763-chain-22781.png",
+          "fileSizeBytes": 207495
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2023-10-29T08:06:36+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Wednesday, 25 October 2023 8:48:34 PM, 25/10/2023 8:48 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1167977782656110683/chain-650086260253130763-chain-22781.png?ex=693ff9d3&is=693ea853&hm=1f4ab89c371931f21965ab3e39304717c8675c333fbb807e9c5ce495dad2ca99&",
+            "width": 2643,
+            "height": 1972
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1167977782656110683/chain-650086260253130763-chain-22781.png?ex=693ff9d3&is=693ea853&hm=1f4ab89c371931f21965ab3e39304717c8675c333fbb807e9c5ce495dad2ca99&",
+              "width": 2643,
+              "height": 1972
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "22,590",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "25,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.84",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "4.20 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "5.30 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "29/10/2023 2:34 PM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1167978007051378802",
+      "type": "Default",
+      "timestamp": "2023-10-29T08:07:36.863+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": null,
+          "description": "Chain's over",
+          "color": "#ED3034",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168020295609749555",
+      "type": "Default",
+      "timestamp": "2023-10-29T10:55:39.241+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.9 minutes at 23,143/25,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168046219029921843",
+      "type": "Default",
+      "timestamp": "2023-10-29T12:38:39.866+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.8 minutes at 23,541/25,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168158993215148125",
+      "type": "Default",
+      "timestamp": "2023-10-29T20:06:47.327+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.5 minutes at 25,453/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168208824805625997",
+      "type": "Default",
+      "timestamp": "2023-10-29T23:24:48.104+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.3 minutes at 26,243/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168220142048661585",
+      "type": "Default",
+      "timestamp": "2023-10-30T00:09:46.345+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.3 minutes at 26,383/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168222719364567040",
+      "type": "Default",
+      "timestamp": "2023-10-30T00:20:00.825+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.8 minutes at 26,404/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168337777331552397",
+      "type": "Default",
+      "timestamp": "2023-10-30T07:57:12.782+08:00",
+      "timestampEdited": "2023-10-30T08:06:13.552+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1168339797715210301",
+          "url": "https://cdn.discordapp.com/attachments/1167215963981238392/1168339797715210301/chain-650086260253130763-chain-22781.png?ex=693ff97a&is=693ea7fa&hm=21ff852efea4fa9656b26c9ebf54fb5506ed84b72e14a14b58863c278ed81aab&",
+          "fileName": "chain-650086260253130763-chain-22781.png",
+          "fileSizeBytes": 214670
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2023-10-30T08:05:57+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Wednesday, 25 October 2023 8:48:34 PM, 25/10/2023 8:48 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1168340045959282869/chain-650086260253130763-chain-22781.png?ex=693ff9b5&is=693ea835&hm=f93e24e53788d140cbe1070e35ff0da4b3eb4bb1be0d0968ff89a95527db758c&",
+            "width": 2643,
+            "height": 1972
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1168340045959282869/chain-650086260253130763-chain-22781.png?ex=693ff9b5&is=693ea835&hm=f93e24e53788d140cbe1070e35ff0da4b3eb4bb1be0d0968ff89a95527db758c&",
+              "width": 2643,
+              "height": 1972
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "28,303",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "50,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.86",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "4.09 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "3.08 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "4/11/2023 4:58 AM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168339794724671630",
+      "type": "Default",
+      "timestamp": "2023-10-30T08:05:13.766+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.3 minutes at 28,303/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168340042972930099",
+      "type": "Default",
+      "timestamp": "2023-10-30T08:06:12.953+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 0.3 minutes at 28,303/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168340228352782416",
+      "type": "Default",
+      "timestamp": "2023-10-30T08:06:57.151+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": null,
+          "description": "Chain's over",
+          "color": "#ED3034",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168480464080740443",
+      "type": "Default",
+      "timestamp": "2023-10-30T17:24:11.954+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can we get this fixed as the chain is not over?",
+      "author": {
+        "id": "453130016528662548",
+        "name": "_ben27",
+        "discriminator": "0000",
+        "nickname": "Ben",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/453130016528662548/51cbb32dea814040008e938455b2981e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168626266795159614",
+      "type": "Default",
+      "timestamp": "2023-10-31T03:03:34.03+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2023-10-31T03:03:22+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Wednesday, 25 October 2023 8:48:34 PM, 25/10/2023 8:48 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1168626267587891323/chain-650086260253130763-chain-22781.png?ex=693fb2c6&is=693e6146&hm=28ae6d22335188cd7d2200434fd98f2849f1e16ac56c954e250ecb143c74ad58&",
+            "width": 2643,
+            "height": 1972
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1168626267587891323/chain-650086260253130763-chain-22781.png?ex=693fb2c6&is=693e6146&hm=28ae6d22335188cd7d2200434fd98f2849f1e16ac56c954e250ecb143c74ad58&",
+              "width": 2643,
+              "height": 1972
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "33,052",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "50,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.88",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "4.04 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "5.63 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "2/11/2023 5:04 AM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168700482026479687",
+      "type": "Default",
+      "timestamp": "2023-10-31T07:58:28.32+08:00",
+      "timestampEdited": "2023-10-31T08:06:29.176+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1168701494757961758",
+          "url": "https://cdn.discordapp.com/attachments/1167215963981238392/1168701494757961758/chain-650086260253130763-chain-22781.png?ex=693ff8d5&is=693ea755&hm=bd9ec525f7cb5cdf6b4eecc3e3ba1ded1a66b4140561d53a3e34fd0f7415c0ae&",
+          "fileName": "chain-650086260253130763-chain-22781.png",
+          "fileSizeBytes": 229786
+        },
+        {
+          "id": "1168702264152694834",
+          "url": "https://cdn.discordapp.com/attachments/1167215963981238392/1168702264152694834/chain-650086260253130763-chain-22781.png?ex=693ff98d&is=693ea80d&hm=55e60a58d67106b5c6f58e76a211ef1c82673d98306638ea6b07a382de2ed3f1&",
+          "fileName": "chain-650086260253130763-chain-22781.png",
+          "fileSizeBytes": 229786
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2023-10-31T08:06:22+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Wednesday, 25 October 2023 8:48:34 PM, 25/10/2023 8:48 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1168702499335712778/chain-650086260253130763-chain-22781.png?ex=693ff9c5&is=693ea845&hm=30f6ffdfc029f70ec2555c0d68b612298479577fa682d1b64a134e07db0d04b5&",
+            "width": 2643,
+            "height": 1972
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1168702499335712778/chain-650086260253130763-chain-22781.png?ex=693ff9c5&is=693ea845&hm=30f6ffdfc029f70ec2555c0d68b612298479577fa682d1b64a134e07db0d04b5&",
+              "width": 2643,
+              "height": 1972
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "34,354",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "50,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.88",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "4.04 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "3.53 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "3/11/2023 8:57 AM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168702260839190560",
+      "type": "Default",
+      "timestamp": "2023-10-31T08:05:32.422+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.7 minutes at 34,354/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168702495074291816",
+      "type": "Default",
+      "timestamp": "2023-10-31T08:06:28.268+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 0.7 minutes at 34,354/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1168702723609329744",
+      "type": "Default",
+      "timestamp": "2023-10-31T08:07:22.755+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": null,
+          "description": "Chain's over",
+          "color": "#ED3034",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169427600884645978",
+      "type": "Default",
+      "timestamp": "2023-11-02T08:07:46.965+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.6 minutes at 45,446/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169427847811715072",
+      "type": "Default",
+      "timestamp": "2023-11-02T08:08:45.837+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 0.6 minutes at 45,446/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169427854040236063",
+      "type": "Default",
+      "timestamp": "2023-11-02T08:08:47.322+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2023-11-02T08:08:45+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Wednesday, 25 October 2023 8:48:34 PM, 25/10/2023 8:48 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1169427854396772482/chain-650086260253130763-chain-22781.png?ex=693ffa4f&is=693ea8cf&hm=545819c3a0d763bc8ffbbc648aeb9f8ab4c1f7f3302687899497b6421cf5f2b3&",
+            "width": 2643,
+            "height": 1972
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1169427854396772482/chain-650086260253130763-chain-22781.png?ex=693ffa4f&is=693ea8cf&hm=545819c3a0d763bc8ffbbc648aeb9f8ab4c1f7f3302687899497b6421cf5f2b3&",
+              "width": 2643,
+              "height": 1972
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "45,446",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "50,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.91",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "4.06 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "3.08 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "3/11/2023 7:35 AM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169428097049821234",
+      "type": "Default",
+      "timestamp": "2023-11-02T08:09:45.26+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": null,
+          "description": "Chain's over",
+          "color": "#ED3034",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169845257656094791",
+      "type": "Default",
+      "timestamp": "2023-11-03T11:47:24.099+08:00",
+      "timestampEdited": "2023-11-03T11:53:23.988+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2023-11-03T11:53:21+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Wednesday, 25 October 2023 8:48:34 PM, 25/10/2023 8:48 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1169846767555199076/chain-650086260253130763-chain-22781.png?ex=693f8634&is=693e34b4&hm=6839d25a9433e1a472cccced2a5ec06be5f1a57110bc205635be55c93cb05887&",
+            "width": 2643,
+            "height": 1972
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1169846767555199076/chain-650086260253130763-chain-22781.png?ex=693f8634&is=693e34b4&hm=6839d25a9433e1a472cccced2a5ec06be5f1a57110bc205635be55c93cb05887&",
+              "width": 2643,
+              "height": 1972
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "49,793",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "50,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.92",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "3.95 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "3.90 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "3/11/2023 11:48 AM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169865138979999784",
+      "type": "Default",
+      "timestamp": "2023-11-03T13:06:24.176+08:00",
+      "timestampEdited": "2023-11-03T13:23:24.326+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2023-11-03T13:23:21+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Wednesday, 25 October 2023 8:48:34 PM, 25/10/2023 8:48 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1169869418185109534/chain-650086260253130763-chain-22781.png?ex=693f9b4c&is=693e49cc&hm=692520dd9c046696c83ad25387ae6c0cfa144aba383a24b9aeaf6ec638862b50&",
+            "width": 2643,
+            "height": 1972
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1169869418185109534/chain-650086260253130763-chain-22781.png?ex=693f9b4c&is=693e49cc&hm=692520dd9c046696c83ad25387ae6c0cfa144aba383a24b9aeaf6ec638862b50&",
+              "width": 2643,
+              "height": 1972
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "50,023",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "100,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.92",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "3.94 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "3.02 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "15/11/2023 12:39 AM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1169869660452294706",
+      "type": "Default",
+      "timestamp": "2023-11-03T13:24:22.179+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": null,
+          "description": "Chain's over",
+          "color": "#ED3034",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1170469260116643910",
+      "type": "Default",
+      "timestamp": "2023-11-05T05:06:57.879+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": null,
+          "description": "Chain's over",
+          "color": "#ED3034",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1207557723944648714",
+      "type": "Default",
+      "timestamp": "2024-02-15T13:23:16.726+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.8 minutes at 15,139/25,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1207696388415033455",
+      "type": "Default",
+      "timestamp": "2024-02-15T22:34:16.912+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.8 minutes at 17,876/25,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1207801583601983488",
+      "type": "Default",
+      "timestamp": "2024-02-16T05:32:17.399+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.6 minutes at 19,544/25,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1207836817236164658",
+      "type": "Default",
+      "timestamp": "2024-02-16T07:52:17.752+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.5 minutes at 20,042/25,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1207886644867235881",
+      "type": "Default",
+      "timestamp": "2024-02-16T11:10:17.585+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.8 minutes at 20,660/25,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1207972469609070592",
+      "type": "Default",
+      "timestamp": "2024-02-16T16:51:19.798+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.6 minutes at 21,737/25,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1207993108575420466",
+      "type": "Default",
+      "timestamp": "2024-02-16T18:13:20.511+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.6 minutes at 21,967/25,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1208033882453053460",
+      "type": "Default",
+      "timestamp": "2024-02-16T20:55:21.761+08:00",
+      "timestampEdited": "2024-02-16T21:04:21.848+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2024-02-16T21:04:18+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Tuesday, 13 February 2024 8:00:43 PM, 13/02/2024 8:00 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1208036148388307014/chain-650086260253130763-chain-22781.png?ex=69400756&is=693eb5d6&hm=a79fc8bb97a7b59abff40e41fbabaa55db83757124c589cb3832b242171674ea&",
+            "width": 2643,
+            "height": 1970
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1208036148388307014/chain-650086260253130763-chain-22781.png?ex=69400756&is=693eb5d6&hm=a79fc8bb97a7b59abff40e41fbabaa55db83757124c589cb3832b242171674ea&",
+              "width": 2643,
+              "height": 1970
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "22,628",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "25,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.84",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "4.67 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "5.05 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "17/02/2024 4:14 AM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1208035892393148428",
+      "type": "Default",
+      "timestamp": "2024-02-16T21:03:20.968+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.3 minutes at 22,628/25,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1208036143858188318",
+      "type": "Default",
+      "timestamp": "2024-02-16T21:04:20.922+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 0.3 minutes at 22,628/25,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1208036387983458314",
+      "type": "Default",
+      "timestamp": "2024-02-16T21:05:19.126+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": null,
+          "description": "Chain's over",
+          "color": "#ED3034",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1208093267523145768",
+      "type": "Default",
+      "timestamp": "2024-02-17T00:51:20.265+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.0 minutes at 23,403/25,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1208098304735313942",
+      "type": "Default",
+      "timestamp": "2024-02-17T01:11:21.23+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.9 minutes at 23,442/25,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1208202245548544071",
+      "type": "Default",
+      "timestamp": "2024-02-17T08:04:22.651+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.6 minutes at 24,993/25,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1208202760776847420",
+      "type": "Default",
+      "timestamp": "2024-02-17T08:06:25.491+08:00",
+      "timestampEdited": "2024-02-17T08:19:23.242+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2024-02-17T08:19:20+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Tuesday, 13 February 2024 8:00:43 PM, 13/02/2024 8:00 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1208206023366549584/chain-650086260253130763-chain-22781.png?ex=693ffccb&is=693eab4b&hm=c06996bb0fc47a035ad5037773376335c8b0413f9cbce77228eb826f022f7e51&",
+            "width": 2643,
+            "height": 1970
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1208206023366549584/chain-650086260253130763-chain-22781.png?ex=693ffccb&is=693eab4b&hm=c06996bb0fc47a035ad5037773376335c8b0413f9cbce77228eb826f022f7e51&",
+              "width": 2643,
+              "height": 1970
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "25,021",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "50,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.85",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "4.44 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "2.63 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "23/02/2024 9:47 PM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1208204510145810493",
+      "type": "Default",
+      "timestamp": "2024-02-17T08:13:22.573+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.9 minutes at 25,020/50,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1208204764567969873",
+      "type": "Default",
+      "timestamp": "2024-02-17T08:14:23.232+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 0.9 minutes at 25,020/50,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1208205768147345418",
+      "type": "Default",
+      "timestamp": "2024-02-17T08:18:22.504+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.8 minutes at 25,021/50,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1208206019784745081",
+      "type": "Default",
+      "timestamp": "2024-02-17T08:19:22.499+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 0.8 minutes at 25,021/50,000\n@TW",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1208206268163035237",
+      "type": "Default",
+      "timestamp": "2024-02-17T08:20:21.717+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": null,
+          "description": "Chain's over",
+          "color": "#ED3034",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1209632057567739944",
+      "type": "Default",
+      "timestamp": "2024-02-21T06:45:56.401+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": null,
+          "description": "Chain's over",
+          "color": "#ED3034",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1246219404526620735",
+      "type": "Default",
+      "timestamp": "2024-06-01T05:50:59.676+08:00",
+      "timestampEdited": "2024-06-01T10:05:27.8+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1240747764388728913",
+        "name": "Wolverine Watch",
+        "discriminator": "5548",
+        "nickname": "Wolverine Watch",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240747764388728913/f543e77c512367bb36f908f0ae4c8299.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Wolverines Chain Watcher",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [
+            {
+              "name": "Current Status",
+              "value": "Started: 1/06/2024 3:57 AM at 1/06/2024 3:57 AM\nTimeout: 1/06/2024 10:05 AM\nCurrent: 2,151/2,500",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1246283190214070373",
+      "type": "Default",
+      "timestamp": "2024-06-01T10:04:27.369+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Chain Watcher",
+      "author": {
+        "id": "1240747764388728913",
+        "name": "Wolverine Watch",
+        "discriminator": "5548",
+        "nickname": "Wolverine Watch",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240747764388728913/f543e77c512367bb36f908f0ae4c8299.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Wolverines Chain Watcher",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [
+            {
+              "name": "",
+              "value": "Chain at 86 seconds!\nCurrent Timeout: 1/06/2024 10:05 AM\n\n[Enemy List](https://tcy.sh/el/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1258860459084353569",
+      "type": "Default",
+      "timestamp": "2024-07-06T03:02:01.942+08:00",
+      "timestampEdited": "2024-07-06T03:03:02.05+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1240747764388728913",
+        "name": "Wolverine Watch",
+        "discriminator": "5548",
+        "nickname": "Wolverine Watch",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240747764388728913/f543e77c512367bb36f908f0ae4c8299.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Wolverines Chain Watcher",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [
+            {
+              "name": "Current Status",
+              "value": "Started: 6/07/2024 3:00 AM at 6/07/2024 3:00 AM\nTimeout: 6/07/2024 3:07 AM\nCurrent: 65/100",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1258966704739057749",
+      "type": "Default",
+      "timestamp": "2024-07-06T10:04:12.88+08:00",
+      "timestampEdited": "2024-07-06T10:10:40.602+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1240747764388728913",
+        "name": "Wolverine Watch",
+        "discriminator": "5548",
+        "nickname": "Wolverine Watch",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240747764388728913/f543e77c512367bb36f908f0ae4c8299.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Wolverines Chain Watcher",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [
+            {
+              "name": "Current Status",
+              "value": "Started: 6/07/2024 3:00 AM at 6/07/2024 3:00 AM\nTimeout: 6/07/2024 10:15 AM\nCurrent: 1,761/2,500",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1258990723332702278",
+      "type": "Default",
+      "timestamp": "2024-07-06T11:39:39.359+08:00",
+      "timestampEdited": "2024-07-06T13:21:36.07+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1240747764388728913",
+        "name": "Wolverine Watch",
+        "discriminator": "5548",
+        "nickname": "Wolverine Watch",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240747764388728913/f543e77c512367bb36f908f0ae4c8299.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Wolverines Chain Watcher",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [
+            {
+              "name": "Current Status",
+              "value": "Started: 6/07/2024 3:00 AM at 6/07/2024 3:00 AM\nTimeout: 6/07/2024 1:26 PM\nCurrent: 2,478/2,500",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1259016639073226752",
+      "type": "Default",
+      "timestamp": "2024-07-06T13:22:38.153+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1240747764388728913",
+        "name": "Wolverine Watch",
+        "discriminator": "5548",
+        "nickname": "Wolverine Watch",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240747764388728913/f543e77c512367bb36f908f0ae4c8299.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Wolverines Chain Watcher",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [
+            {
+              "name": "",
+              "value": "Upcoming 2,500 bonus.\n Chain is at 2,485/2,500\n\nCurrent Timeout: 6/07/2024 1:27 PM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1266470857002451055",
+      "type": "Default",
+      "timestamp": "2024-07-27T03:03:02.2+08:00",
+      "timestampEdited": "2024-07-27T03:04:31.796+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1240747764388728913",
+        "name": "Wolverine Watch",
+        "discriminator": "5548",
+        "nickname": "Wolverine Watch",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240747764388728913/f543e77c512367bb36f908f0ae4c8299.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Wolverines Chain Watcher",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [
+            {
+              "name": "Current Status",
+              "value": "Started: 27/07/2024 3:00 AM at 27/07/2024 3:00 AM\nTimeout: 27/07/2024 3:09 AM\nCurrent: 70/100",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1266471359341658282",
+      "type": "Default",
+      "timestamp": "2024-07-27T03:05:01.967+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1240747764388728913",
+        "name": "Wolverine Watch",
+        "discriminator": "5548",
+        "nickname": "Wolverine Watch",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240747764388728913/f543e77c512367bb36f908f0ae4c8299.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Wolverines Chain Watcher",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [
+            {
+              "name": "",
+              "value": "Upcoming 100 bonus.\n Chain is at 80/100\n\nCurrent Timeout: 27/07/2024 3:09 AM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1266500993961427044",
+      "type": "Default",
+      "timestamp": "2024-07-27T05:02:47.411+08:00",
+      "timestampEdited": "2024-07-27T05:07:17.553+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1240747764388728913",
+        "name": "Wolverine Watch",
+        "discriminator": "5548",
+        "nickname": "Wolverine Watch",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240747764388728913/f543e77c512367bb36f908f0ae4c8299.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Wolverines Chain Watcher",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [
+            {
+              "name": "Current Status",
+              "value": "Started: 27/07/2024 4:53 AM at 27/07/2024 4:53 AM\nTimeout: 27/07/2024 5:07 AM\nCurrent: 50/100",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1266501874958205038",
+      "type": "Default",
+      "timestamp": "2024-07-27T05:06:17.457+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@TW Council",
+      "author": {
+        "id": "1240747764388728913",
+        "name": "Wolverine Watch",
+        "discriminator": "5548",
+        "nickname": "Wolverine Watch",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240747764388728913/f543e77c512367bb36f908f0ae4c8299.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Wolverines Chain Watcher",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [
+            {
+              "name": "",
+              "value": "Chain at 61 seconds!\nCurrent Timeout: 27/07/2024 5:07 AM\n\n[Enemy List](https://tcy.sh/el/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1271196919976296520",
+      "type": "Default",
+      "timestamp": "2024-08-09T04:02:43.419+08:00",
+      "timestampEdited": "2024-08-09T04:31:43.506+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1240747764388728913",
+        "name": "Wolverine Watch",
+        "discriminator": "5548",
+        "nickname": "Wolverine Watch",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240747764388728913/f543e77c512367bb36f908f0ae4c8299.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Wolverines Chain Watcher",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [
+            {
+              "name": "Current Status",
+              "value": "Started: 9/08/2024 4:00 AM at 9/08/2024 4:00 AM\nTimeout: 9/08/2024 4:32 AM\nCurrent: 313/500",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1271204092018163815",
+      "type": "Default",
+      "timestamp": "2024-08-09T04:31:13.367+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@TW Council",
+      "author": {
+        "id": "1240747764388728913",
+        "name": "Wolverine Watch",
+        "discriminator": "5548",
+        "nickname": "Wolverine Watch",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240747764388728913/f543e77c512367bb36f908f0ae4c8299.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Wolverines Chain Watcher",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [
+            {
+              "name": "",
+              "value": "Chain at 74 seconds!\nCurrent Timeout: 9/08/2024 4:32 AM\n\n[Enemy List](https://tcy.sh/el/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1274089306310447229",
+      "type": "Default",
+      "timestamp": "2024-08-17T03:36:02.059+08:00",
+      "timestampEdited": "2024-08-18T22:43:32.245+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1240747764388728913",
+        "name": "Wolverine Watch",
+        "discriminator": "5548",
+        "nickname": "Wolverine Watch",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240747764388728913/f543e77c512367bb36f908f0ae4c8299.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Wolverines Chain Watcher",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [
+            {
+              "name": "Current Status",
+              "value": "Started: 17/08/2024 3:34 AM at 17/08/2024 3:34 AM\nTimeout: 18/08/2024 10:43 PM\nCurrent: 10,004/25,000",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1274740220289351762",
+      "type": "Default",
+      "timestamp": "2024-08-18T22:42:32.045+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@TW Council",
+      "author": {
+        "id": "1240747764388728913",
+        "name": "Wolverine Watch",
+        "discriminator": "5548",
+        "nickname": "Wolverine Watch",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240747764388728913/f543e77c512367bb36f908f0ae4c8299.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Wolverines Chain Watcher",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [
+            {
+              "name": "",
+              "value": "Chain at 67 seconds!\nCurrent Timeout: 18/08/2024 10:43 PM\n\n[Enemy List](https://tcy.sh/el/)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1300290541136904193",
+      "type": "Default",
+      "timestamp": "2024-10-28T10:50:23.237+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.3 minutes at 23,304/25,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1300391778792374342",
+      "type": "Default",
+      "timestamp": "2024-10-28T17:32:40.175+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.2 minutes at 25,240/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1300515535171227749",
+      "type": "Default",
+      "timestamp": "2024-10-29T01:44:25.995+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.9 minutes at 27,452/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1300682196964610183",
+      "type": "Default",
+      "timestamp": "2024-10-29T12:46:41.263+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.6 minutes at 30,877/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1300969789845409833",
+      "type": "Default",
+      "timestamp": "2024-10-30T07:49:28.749+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.8 minutes at 36,121/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1301073813857107978",
+      "type": "Default",
+      "timestamp": "2024-10-30T14:42:50.006+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.9 minutes at 38,473/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1301320944878489682",
+      "type": "Default",
+      "timestamp": "2024-10-31T07:04:50.633+08:00",
+      "timestampEdited": "2024-10-31T07:15:58.586+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1301321570555269212",
+          "url": "https://cdn.discordapp.com/attachments/1167215963981238392/1301321570555269212/chain-650086260253130763-chain-22781.png?ex=693febe7&is=693e9a67&hm=82ec02b985fe93276ca5e2579950af9d7c1b9954d8e5dca7edb9a850701ff240&",
+          "fileName": "chain-650086260253130763-chain-22781.png",
+          "fileSizeBytes": 264682
+        },
+        {
+          "id": "1301322237189689455",
+          "url": "https://cdn.discordapp.com/attachments/1167215963981238392/1301322237189689455/chain-650086260253130763-chain-22781.png?ex=693fec86&is=693e9b06&hm=bd62b1143735bdff5596081cead5dc129df2a3a71f3cd371a613159d00526313&",
+          "fileName": "chain-650086260253130763-chain-22781.png",
+          "fileSizeBytes": 264682
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2024-10-31T07:15:36+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Friday, 25 October 2024 7:00:11 PM, 25/10/2024 7:00 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1301323746887602288/chain-650086260253130763-chain-22781.png?ex=693fedee&is=693e9c6e&hm=0561443ddded0688d46bdd89f274e6aa78ad9c4010f59b4d2b8e68eccf35f0c4&",
+            "width": 2644,
+            "height": 1972
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1301323746887602288/chain-650086260253130763-chain-22781.png?ex=693fedee&is=693e9c6e&hm=0561443ddded0688d46bdd89f274e6aa78ad9c4010f59b4d2b8e68eccf35f0c4&",
+              "width": 2644,
+              "height": 1972
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "42,789",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "50,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.91",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "5.19 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "3.58 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "1/11/2024 4:16 PM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1301325171197607966",
+      "type": "Default",
+      "timestamp": "2024-10-31T07:21:38.266+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": null,
+          "description": "Chain's over",
+          "color": "#ED3034",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1301891660736892938",
+      "type": "Default",
+      "timestamp": "2024-11-01T20:52:39.897+08:00",
+      "timestampEdited": "2024-11-01T21:04:26.009+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1301892884789723146",
+          "url": "https://cdn.discordapp.com/attachments/1167215963981238392/1301892884789723146/chain-650086260253130763-chain-22781.png?ex=694005bb&is=693eb43b&hm=aa50079fdc913b330526932306293da34952321e3980759cc196322bb6f29e77&",
+          "fileName": "chain-650086260253130763-chain-22781.png",
+          "fileSizeBytes": 282349
+        },
+        {
+          "id": "1301893403386318960",
+          "url": "https://cdn.discordapp.com/attachments/1167215963981238392/1301893403386318960/chain-650086260253130763-chain-22781.png?ex=69400637&is=693eb4b7&hm=105bfac664272294993c70d430bcb039ed47e2c0f2c620cb0b6e444d6dbef8c1&",
+          "fileName": "chain-650086260253130763-chain-22781.png",
+          "fileSizeBytes": 282349
+        },
+        {
+          "id": "1301893967675129898",
+          "url": "https://cdn.discordapp.com/attachments/1167215963981238392/1301893967675129898/chain-650086260253130763-chain-22781.png?ex=694006bd&is=693eb53d&hm=2cd571a8ac4043b18c8586452b9182ae0d7cd326e2d02f1674bbbce4728303b5&",
+          "fileName": "chain-650086260253130763-chain-22781.png",
+          "fileSizeBytes": 282349
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2024-11-01T21:04:25+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Friday, 25 October 2024 7:00:11 PM, 25/10/2024 7:00 PM",
+          "color": "#E67E22",
+          "images": [],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "54,824",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "100,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.93",
+              "isInline": true
+            },
+            {
+              "name": "YATA error",
+              "value": "YATA API is talking shit... response not serializable.",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1301894871312891904",
+      "type": "Default",
+      "timestamp": "2024-11-01T21:05:25.358+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": null,
+          "description": "Chain's over",
+          "color": "#ED3034",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1432871603993051157",
+      "type": "Default",
+      "timestamp": "2025-10-29T07:20:11.859+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.6 minutes at 21,518/25,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1432884461510594721",
+      "type": "Default",
+      "timestamp": "2025-10-29T08:11:17.33+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.8 minutes at 21,750/25,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1432884690527846460",
+      "type": "Default",
+      "timestamp": "2025-10-29T08:12:11.932+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.8 minutes at 21,751/25,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1432884942664241223",
+      "type": "Default",
+      "timestamp": "2025-10-29T08:13:12.046+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.6 minutes at 21,756/25,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1432938365501706420",
+      "type": "Default",
+      "timestamp": "2025-10-29T11:45:29.043+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.9 minutes at 22,804/25,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1432965258938417162",
+      "type": "Default",
+      "timestamp": "2025-10-29T13:32:20.938+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.2 minutes at 23,449/25,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1433103953247207597",
+      "type": "Default",
+      "timestamp": "2025-10-29T22:43:28.238+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.9 minutes at 26,666/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1433208836684255463",
+      "type": "Default",
+      "timestamp": "2025-10-30T05:40:14.398+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.7 minutes at 29,358/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1433290147176251412",
+      "type": "Default",
+      "timestamp": "2025-10-30T11:03:20.33+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.8 minutes at 30,900/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1433319723877142548",
+      "type": "Default",
+      "timestamp": "2025-10-30T13:00:51.965+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.6 minutes at 31,266/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1433320912777773136",
+      "type": "Default",
+      "timestamp": "2025-10-30T13:05:35.421+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.6 minutes at 31,268/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1433464540338851872",
+      "type": "Default",
+      "timestamp": "2025-10-30T22:36:18.9+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.4 minutes at 34,908/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1433743450972618874",
+      "type": "Default",
+      "timestamp": "2025-10-31T17:04:36.377+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.6 minutes at 41,502/50,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434125081931415563",
+      "type": "Default",
+      "timestamp": "2025-11-01T18:21:04.288+08:00",
+      "timestampEdited": "2025-11-01T18:22:05.39+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2025-11-01T18:21:52+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Sunday, 26 October 2025 11:06:31 PM, 26/10/2025 11:06 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1434125338752978964/chain-650086260253130763-chain-22781.png?ex=693fe14d&is=693e8fcd&hm=ae369e5d48f014ba75a72fb2d52d8fbf58269939812a9b871800565f9e81fd0d&",
+            "width": 2644,
+            "height": 1972
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1434125338752978964/chain-650086260253130763-chain-22781.png?ex=693fe14d&is=693e8fcd&hm=ae369e5d48f014ba75a72fb2d52d8fbf58269939812a9b871800565f9e81fd0d&",
+              "width": 2644,
+              "height": 1972
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "51,863",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "100,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.93",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "6.05 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "10.08 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "5/11/2025 1:18 AM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434150044445048862",
+      "type": "Default",
+      "timestamp": "2025-11-01T20:00:15.815+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.6 minutes at 52,400/100,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434151489240174636",
+      "type": "Default",
+      "timestamp": "2025-11-01T20:06:00.281+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.8 minutes at 52,405/100,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434152718108327946",
+      "type": "Default",
+      "timestamp": "2025-11-01T20:10:53.266+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.9 minutes at 52,408/100,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434160856815632505",
+      "type": "Default",
+      "timestamp": "2025-11-01T20:43:13.685+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.8 minutes at 52,522/100,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434182174797594686",
+      "type": "Default",
+      "timestamp": "2025-11-01T22:07:56.288+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.4 minutes at 52,845/100,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434183438403112971",
+      "type": "Default",
+      "timestamp": "2025-11-01T22:12:57.555+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.6 minutes at 52,848/100,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434184958720741517",
+      "type": "Default",
+      "timestamp": "2025-11-01T22:19:00.027+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.8 minutes at 52,856/100,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434187517581721714",
+      "type": "Default",
+      "timestamp": "2025-11-01T22:29:10.107+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 2.0 minutes at 52,875/100,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434187699350278145",
+      "type": "Default",
+      "timestamp": "2025-11-01T22:29:53.444+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.0 minutes at 52,875/100,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434206348731617410",
+      "type": "Default",
+      "timestamp": "2025-11-01T23:43:59.803+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.5 minutes at 53,183/100,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434206581267894406",
+      "type": "Default",
+      "timestamp": "2025-11-01T23:44:55.244+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 0.5 minutes at 53,183/100,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434210372432171070",
+      "type": "Default",
+      "timestamp": "2025-11-01T23:59:59.128+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 1.4 minutes at 53,213/100,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434210612237570080",
+      "type": "Default",
+      "timestamp": "2025-11-02T00:00:56.302+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chain timeout in 0.4 minutes at 53,213/100,000\n@Chain Watcher",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434210618700857530",
+      "type": "Default",
+      "timestamp": "2025-11-02T00:00:57.843+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": "2025-11-02T00:00:53+08:00",
+          "description": "[The Wolverines](https://www.torn.com/factions.php?step=profile&ID=22781)\n\nStarted on Sunday, 26 October 2025 11:06:31 PM, 26/10/2025 11:06 PM",
+          "color": "#E67E22",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1167215963981238392/1434210619422412911/chain-650086260253130763-chain-22781.png?ex=693f87fa&is=693e367a&hm=847c871f197eb249d5b3b938829f39535947822c29e8d07d5c747540b5fbd4b0&",
+            "width": 2644,
+            "height": 1972
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1167215963981238392/1434210619422412911/chain-650086260253130763-chain-22781.png?ex=693f87fa&is=693e367a&hm=847c871f197eb249d5b3b938829f39535947822c29e8d07d5c747540b5fbd4b0&",
+              "width": 2644,
+              "height": 1972
+            }
+          ],
+          "fields": [
+            {
+              "name": "Current",
+              "value": "53,213",
+              "isInline": true
+            },
+            {
+              "name": "Max",
+              "value": "100,000",
+              "isInline": true
+            },
+            {
+              "name": "Modifier",
+              "value": "1.93",
+              "isInline": true
+            },
+            {
+              "name": "Global hit rate",
+              "value": "6.06 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Recent hit rate",
+              "value": "3.43 hits/min",
+              "isInline": true
+            },
+            {
+              "name": "Next bonus ETA",
+              "value": "11/11/2025 10:25 AM",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1434210851853697044",
+      "type": "Default",
+      "timestamp": "2025-11-02T00:01:53.431+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "623862007434706986",
+        "name": "YATA",
+        "discriminator": "0998",
+        "nickname": "YATA",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1053723029324169239",
+            "name": "YATA",
+            "color": null,
+            "position": 69
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/623862007434706986/79f0f01608490a6086d3bc40023e4173.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chain [22781]",
+          "url": null,
+          "timestamp": null,
+          "description": "Chain's over",
+          "color": "#ED3034",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 104
+}

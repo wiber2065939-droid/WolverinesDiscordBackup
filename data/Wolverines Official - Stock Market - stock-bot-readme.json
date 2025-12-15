@@ -1,0 +1,383 @@
+{
+  "guild": {
+    "id": "650086260253130763",
+    "name": "Wolverines Official",
+    "iconUrl": "https://cdn.discordapp.com/icons/650086260253130763/248df5ee4812c5d6b78c6e10e4d9ebda.png?size=512"
+  },
+  "channel": {
+    "id": "941000754074878062",
+    "type": "GuildTextChat",
+    "categoryId": "940999276153176104",
+    "category": "Stock Market",
+    "name": "stock-bot-readme",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-12-14T18:02:10.101494+08:00",
+  "messages": [
+    {
+      "id": "944711481130356777",
+      "type": "Default",
+      "timestamp": "2022-02-20T05:46:08.992+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you are not interested in stocks or do not wish to see these channels you can mute this entire category by right clicking \"Stock Market\" -> \"Mute Category\" -> \"Until I turn it back on\".",
+      "author": {
+        "id": "218482636551618560",
+        "name": "king.louis",
+        "discriminator": "0000",
+        "nickname": "KingLouisCLXXII [2070312]",
+        "color": "#A9C9FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "723300376035459073",
+            "name": "Witch",
+            "color": "#A9C9FF",
+            "position": 71
+          },
+          {
+            "id": "650088877943685126",
+            "name": "Leadership",
+            "color": "#369876",
+            "position": 67
+          },
+          {
+            "id": "850430340099080222",
+            "name": "TW Leadership",
+            "color": "#1ABC9C",
+            "position": 66
+          },
+          {
+            "id": "727384780705890385",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 52
+          },
+          {
+            "id": "1300254917310681139",
+            "name": "Dev",
+            "color": "#F47FFF",
+            "position": 50
+          },
+          {
+            "id": "650089147423260675",
+            "name": "TW",
+            "color": "#CCCC33",
+            "position": 48
+          },
+          {
+            "id": "796044336777003068",
+            "name": "Wolverines",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "940633975108542524",
+            "name": "Stocks",
+            "color": "#71368A",
+            "position": 31
+          },
+          {
+            "id": "1159539206037712916",
+            "name": "Big Als Double Disable",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "1322662900959154247",
+            "name": "Banker TW",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "1180994908207714324",
+            "name": "OCs TW",
+            "color": "#71368A",
+            "position": 22
+          },
+          {
+            "id": "940680521384611890",
+            "name": "Looter",
+            "color": "#71368A",
+            "position": 13
+          },
+          {
+            "id": "650100703838208032",
+            "name": "Verified",
+            "color": "#C27C0E",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/218482636551618560/946ff111d53948536b1300bfcdfa110f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "944711480983580782",
+          "url": "https://cdn.discordapp.com/attachments/941000754074878062/944711480983580782/Screen_Shot_2022-02-19_at_4.44.30_PM.png?ex=693fd8e0&is=693e8760&hm=f38c11e87fbb52d00c22a97cf19b082aad635c7ad579dfc01dc98f02d2425017&",
+          "fileName": "Screen_Shot_2022-02-19_at_4.44.30_PM.png",
+          "fileSizeBytes": 48432
+        },
+        {
+          "id": "944711481348481054",
+          "url": "https://cdn.discordapp.com/attachments/941000754074878062/944711481348481054/Screen_Shot_2022-02-19_at_4.43.58_PM.png?ex=693fd8e1&is=693e8761&hm=5bd7ff2fb26203896742bc85d6cfac9d895b46471bb5231ab498d4d02e23251e&",
+          "fileName": "Screen_Shot_2022-02-19_at_4.43.58_PM.png",
+          "fileSizeBytes": 129712
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "427608826238468107",
+              "name": "blistig",
+              "discriminator": "0000",
+              "nickname": "Blistig",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "944713428923203636",
+      "type": "Default",
+      "timestamp": "2022-02-20T05:53:53.382+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you do not wish to see the notifications from one or any of the transaction channels you can mute the channel by right clicking the name -> \"Mute Channel\".",
+      "author": {
+        "id": "218482636551618560",
+        "name": "king.louis",
+        "discriminator": "0000",
+        "nickname": "KingLouisCLXXII [2070312]",
+        "color": "#A9C9FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "723300376035459073",
+            "name": "Witch",
+            "color": "#A9C9FF",
+            "position": 71
+          },
+          {
+            "id": "650088877943685126",
+            "name": "Leadership",
+            "color": "#369876",
+            "position": 67
+          },
+          {
+            "id": "850430340099080222",
+            "name": "TW Leadership",
+            "color": "#1ABC9C",
+            "position": 66
+          },
+          {
+            "id": "727384780705890385",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 52
+          },
+          {
+            "id": "1300254917310681139",
+            "name": "Dev",
+            "color": "#F47FFF",
+            "position": 50
+          },
+          {
+            "id": "650089147423260675",
+            "name": "TW",
+            "color": "#CCCC33",
+            "position": 48
+          },
+          {
+            "id": "796044336777003068",
+            "name": "Wolverines",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "940633975108542524",
+            "name": "Stocks",
+            "color": "#71368A",
+            "position": 31
+          },
+          {
+            "id": "1159539206037712916",
+            "name": "Big Als Double Disable",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "1322662900959154247",
+            "name": "Banker TW",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "1180994908207714324",
+            "name": "OCs TW",
+            "color": "#71368A",
+            "position": 22
+          },
+          {
+            "id": "940680521384611890",
+            "name": "Looter",
+            "color": "#71368A",
+            "position": 13
+          },
+          {
+            "id": "650100703838208032",
+            "name": "Verified",
+            "color": "#C27C0E",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/218482636551618560/946ff111d53948536b1300bfcdfa110f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "944713428637978684",
+          "url": "https://cdn.discordapp.com/attachments/941000754074878062/944713428637978684/Screen_Shot_2022-02-19_at_4.52.10_PM.png?ex=693fdab1&is=693e8931&hm=53502691d98518d37a3dff3c8d25d5cb8ecc8e84dba27de8067e051313133637&",
+          "fileName": "Screen_Shot_2022-02-19_at_4.52.10_PM.png",
+          "fileSizeBytes": 49060
+        },
+        {
+          "id": "944713428851916810",
+          "url": "https://cdn.discordapp.com/attachments/941000754074878062/944713428851916810/Screen_Shot_2022-02-19_at_4.52.45_PM.png?ex=693fdab1&is=693e8931&hm=50bc062818ff8cfd1844d6c554e34f28016ecd79c4ad59b8b38096485e73a9be&",
+          "fileName": "Screen_Shot_2022-02-19_at_4.52.45_PM.png",
+          "fileSizeBytes": 68643
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "965789478893535375",
+      "type": "Default",
+      "timestamp": "2022-04-19T09:42:35.269+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "``` ```\nRecently I set out a few trading guidelines for myself to protect myself from large losses caused by emotions/sunk cost fallacy. Feel free to copy these or create your own.\n\nNote: I define \"capital\" to be the total amount of money you are using to play in the stock market with.\n\n-Never enter with more than 33% capital at a time\n-Never be \"in\" a single stock with more than 66% capital\n-Bail at -5% (still experimenting with this value/rule)\n-Never enter let your emotions dictate your trades\n-Past performance does not dictate future results. Nothing is \"bound/due\" to go up.\n``` ```",
+      "author": {
+        "id": "218482636551618560",
+        "name": "king.louis",
+        "discriminator": "0000",
+        "nickname": "KingLouisCLXXII [2070312]",
+        "color": "#A9C9FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "723300376035459073",
+            "name": "Witch",
+            "color": "#A9C9FF",
+            "position": 71
+          },
+          {
+            "id": "650088877943685126",
+            "name": "Leadership",
+            "color": "#369876",
+            "position": 67
+          },
+          {
+            "id": "850430340099080222",
+            "name": "TW Leadership",
+            "color": "#1ABC9C",
+            "position": 66
+          },
+          {
+            "id": "727384780705890385",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 52
+          },
+          {
+            "id": "1300254917310681139",
+            "name": "Dev",
+            "color": "#F47FFF",
+            "position": 50
+          },
+          {
+            "id": "650089147423260675",
+            "name": "TW",
+            "color": "#CCCC33",
+            "position": 48
+          },
+          {
+            "id": "796044336777003068",
+            "name": "Wolverines",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "940633975108542524",
+            "name": "Stocks",
+            "color": "#71368A",
+            "position": 31
+          },
+          {
+            "id": "1159539206037712916",
+            "name": "Big Als Double Disable",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "1322662900959154247",
+            "name": "Banker TW",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "1180994908207714324",
+            "name": "OCs TW",
+            "color": "#71368A",
+            "position": 22
+          },
+          {
+            "id": "940680521384611890",
+            "name": "Looter",
+            "color": "#71368A",
+            "position": 13
+          },
+          {
+            "id": "650100703838208032",
+            "name": "Verified",
+            "color": "#C27C0E",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/218482636551618560/946ff111d53948536b1300bfcdfa110f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 3
+}

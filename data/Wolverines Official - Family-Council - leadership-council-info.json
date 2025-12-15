@@ -1,0 +1,388 @@
+{
+  "guild": {
+    "id": "650086260253130763",
+    "name": "Wolverines Official",
+    "iconUrl": "https://cdn.discordapp.com/icons/650086260253130763/248df5ee4812c5d6b78c6e10e4d9ebda.png?size=512"
+  },
+  "channel": {
+    "id": "1085609818892542062",
+    "type": "GuildTextChat",
+    "categoryId": "715257292072812615",
+    "category": "Family-Council",
+    "name": "leadership-council-info",
+    "topic": "a quick guide to what servers are relevant, what they do, and who needs to be in them"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-12-14T22:52:35.5316762+08:00",
+  "messages": [
+    {
+      "id": "1085611275603681290",
+      "type": "Default",
+      "timestamp": "2023-03-16T01:11:37.786+08:00",
+      "timestampEdited": "2025-02-17T22:44:46.787+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone This channel will house a quick guide to what servers are relevant, what they do, and who needs to be in them:\n\nC3\n- Who: @Leadership mandatory, @Council mandatory\n- What: WW + OBN (Monarch + NS) alliance\n- Where: https://discord.gg/nxvyNaYMhC\n\nWestworld (WW):\n- Who: All members, council, and leadership mandatory\n- What: Alliance wide server for chat, war orders, and various tools (enemy stalking, assists, smokes, etc)\n- Where: https://discord.gg/5SC6CytVTU\n\nWW Command & Conquer:\n- Who: @Leadership mandatory, @Council optional\n- What: Alliance leadership planning server, council to be present to facilitate territory movements when necessary \n- Where:  https://discord.gg/zGSzpyYbB4\n\n~~Top Gun Alliance (TGA):\n- Who: @Leadership only and mandatory\n- What: Smaller sub alliance. Leadership discussions.\n- Where: https://discord.gg/pWgQtfCGE7~~",
+      "author": {
+        "id": "218482636551618560",
+        "name": "king.louis",
+        "discriminator": "0000",
+        "nickname": "KingLouisCLXXII [2070312]",
+        "color": "#A9C9FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "723300376035459073",
+            "name": "Witch",
+            "color": "#A9C9FF",
+            "position": 71
+          },
+          {
+            "id": "650088877943685126",
+            "name": "Leadership",
+            "color": "#369876",
+            "position": 67
+          },
+          {
+            "id": "850430340099080222",
+            "name": "TW Leadership",
+            "color": "#1ABC9C",
+            "position": 66
+          },
+          {
+            "id": "727384780705890385",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 52
+          },
+          {
+            "id": "1300254917310681139",
+            "name": "Dev",
+            "color": "#F47FFF",
+            "position": 50
+          },
+          {
+            "id": "650089147423260675",
+            "name": "TW",
+            "color": "#CCCC33",
+            "position": 48
+          },
+          {
+            "id": "796044336777003068",
+            "name": "Wolverines",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "940633975108542524",
+            "name": "Stocks",
+            "color": "#71368A",
+            "position": 31
+          },
+          {
+            "id": "1159539206037712916",
+            "name": "Big Als Double Disable",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "1322662900959154247",
+            "name": "Banker TW",
+            "color": "#71368A",
+            "position": 23
+          },
+          {
+            "id": "1180994908207714324",
+            "name": "OCs TW",
+            "color": "#71368A",
+            "position": 22
+          },
+          {
+            "id": "940680521384611890",
+            "name": "Looter",
+            "color": "#71368A",
+            "position": 13
+          },
+          {
+            "id": "650100703838208032",
+            "name": "Verified",
+            "color": "#C27C0E",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/218482636551618560/946ff111d53948536b1300bfcdfa110f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Discord - Group Chat That’s All Fun & Games",
+          "url": "https://discord.gg/pWgQtfCGE7~~",
+          "timestamp": null,
+          "description": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
+          "color": "#161CBB",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/geFbc8OQDIwJV_CxP_75bUhImtkBwcm5q7CIv95jCcA/https/cdn.prod.website-files.com/6257adef93867e50d84d30e2/665643dd8c7ac752237b5cef_Discord-OG-1200x630.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 12,
+          "users": [
+            {
+              "id": "229335595833360385",
+              "name": "naelbse",
+              "discriminator": "0000",
+              "nickname": "Nael",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/229335595833360385/6cde6836e77ff53e74474d2793aa34be.png?size=512"
+            },
+            {
+              "id": "341114621979000832",
+              "name": "graciejj2000",
+              "discriminator": "0000",
+              "nickname": "Graciejj2000",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/341114621979000832/f7cf77aa2e5fee6702cb9617eb3f3613.png?size=512"
+            },
+            {
+              "id": "420500727555948544",
+              "name": "aviarcer",
+              "discriminator": "0000",
+              "nickname": "AviArcer",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/420500727555948544/e22da7734adaba7f465bc0e6715a73dc.png?size=512"
+            },
+            {
+              "id": "546918966564618250",
+              "name": "nykyrian5680",
+              "discriminator": "0000",
+              "nickname": "Nykyrian",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/546918966564618250/61bb53912816b704e7a735fff3abdcc8.png?size=512"
+            },
+            {
+              "id": "566389948433825814",
+              "name": "badassblue",
+              "discriminator": "0000",
+              "nickname": "BadAssBlue",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/566389948433825814/c260694d92ca357c555825af0e23b7a8.png?size=512"
+            },
+            {
+              "id": "586504024958697483",
+              "name": "jryann",
+              "discriminator": "0000",
+              "nickname": "Jryann",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/586504024958697483/cbc7ded585f6f08b39a0a73cd2b81e0e.png?size=512"
+            },
+            {
+              "id": "591146140666429442",
+              "name": "sharkhara",
+              "discriminator": "0000",
+              "nickname": "Sharkhara",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/591146140666429442/7b3bed470758829748b276288a87582e.png?size=512"
+            },
+            {
+              "id": "637029086467719179",
+              "name": "nyoei",
+              "discriminator": "0000",
+              "nickname": "Nyoei",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/637029086467719179/ee356eee119ab2f6c699c0d57a22de05.png?size=512"
+            },
+            {
+              "id": "699414348296093776",
+              "name": "lordmogra",
+              "discriminator": "0000",
+              "nickname": "LordMogra",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/699414348296093776/a589f734aef23a2595a8401af35e881a.png?size=512"
+            },
+            {
+              "id": "704797144552570930",
+              "name": "h_a__l_o",
+              "discriminator": "0000",
+              "nickname": "Mean",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/704797144552570930/83dbe30da6e6cafb0f8bd347dda34a39.png?size=512"
+            },
+            {
+              "id": "812776049766301697",
+              "name": "heartshapedbox_",
+              "discriminator": "0000",
+              "nickname": "Curly Fry",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/812776049766301697/79dc10081abdfa2f38ed425ae348d24e.png?size=512"
+            },
+            {
+              "id": "967735895904124960",
+              "name": "batbabyx",
+              "discriminator": "0000",
+              "nickname": "batbabyx",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/967735895904124960/5c0c3bc14ca7ed43bc49643ed1cd7bc6.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD01",
+            "code": "repeat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f501.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "506586565322211350",
+              "name": ".raelyn.",
+              "discriminator": "0000",
+              "nickname": "Rae",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/506586565322211350/1aaeb98b9a73bac3e6cdf854366e8d68.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1341013954285011016",
+      "type": "ThreadCreated",
+      "timestamp": "2025-02-17T19:50:41.536+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Started a thread.",
+      "author": {
+        "id": "506586565322211350",
+        "name": ".raelyn.",
+        "discriminator": "0000",
+        "nickname": "Raelyn [2636726]",
+        "color": "#369876",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "650088877943685126",
+            "name": "Leadership",
+            "color": "#369876",
+            "position": 67
+          },
+          {
+            "id": "850430073998671904",
+            "name": "WR Leadership",
+            "color": "#1ABC9C",
+            "position": 65
+          },
+          {
+            "id": "715258823438368829",
+            "name": "Council",
+            "color": "#AA3B3B",
+            "position": 61
+          },
+          {
+            "id": "850429864124088360",
+            "name": "WR Council",
+            "color": "#E74C3C",
+            "position": 59
+          },
+          {
+            "id": "650089311244517386",
+            "name": "WR",
+            "color": "#CCCCCC",
+            "position": 47
+          },
+          {
+            "id": "796044336777003068",
+            "name": "Wolverines",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "1160653956482084934",
+            "name": "Giveaways",
+            "color": "#2ECC71",
+            "position": 24
+          },
+          {
+            "id": "1322663824222064760",
+            "name": "Banker WR",
+            "color": "#71368A",
+            "position": 21
+          },
+          {
+            "id": "1160655343072841828",
+            "name": "Retals",
+            "color": "#71368A",
+            "position": 15
+          },
+          {
+            "id": "1167218077012865044",
+            "name": "Chain Watcher",
+            "color": "#71368A",
+            "position": 11
+          },
+          {
+            "id": "762171719900987423",
+            "name": "Giveaway Hoster",
+            "color": "#71368A",
+            "position": 10
+          },
+          {
+            "id": "650100703838208032",
+            "name": "Verified",
+            "color": "#C27C0E",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/506586565322211350/1aaeb98b9a73bac3e6cdf854366e8d68.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": null,
+        "channelId": "1341013954285011016",
+        "guildId": "650086260253130763"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

@@ -1,0 +1,433 @@
+{
+  "guild": {
+    "id": "650086260253130763",
+    "name": "Wolverines Official",
+    "iconUrl": "https://cdn.discordapp.com/icons/650086260253130763/248df5ee4812c5d6b78c6e10e4d9ebda.png?size=512"
+  },
+  "channel": {
+    "id": "941452359853277186",
+    "type": "GuildTextChat",
+    "categoryId": "940999276153176104",
+    "category": "Stock Market",
+    "name": "stock-bot-commands",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-12-14T18:10:46.7856523+08:00",
+  "messages": [
+    {
+      "id": "953894184224456764",
+      "type": "Default",
+      "timestamp": "2022-03-17T13:54:56.016+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Small Transaction",
+      "author": {
+        "id": "688125059419865100",
+        "name": "visedwings049",
+        "discriminator": "0000",
+        "nickname": "visedwings049",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/688125059419865100/b4679b900aef95b56ed6c6535dd103e0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "974988383212421170",
+      "type": "Default",
+      "timestamp": "2022-05-14T18:55:44.966+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Small Transaction",
+      "author": {
+        "id": "820323370545578024",
+        "name": "i_leonidas",
+        "discriminator": "0000",
+        "nickname": "Leonidas [1523210]",
+        "color": "#C27C0E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "650100703838208032",
+            "name": "Verified",
+            "color": "#C27C0E",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/820323370545578024/7ffef94ae84755b11befc6187b200b38.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "987199411065081876",
+      "type": "Default",
+      "timestamp": "2022-06-17T11:38:00.876+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@small transaction",
+      "author": {
+        "id": "353312436083752960",
+        "name": "somepersonnamed",
+        "discriminator": "0000",
+        "nickname": "somepersonnamed",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/353312436083752960/5b7b053df7457fa943a744876f86e861.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1002129824275501136",
+      "type": "Default",
+      "timestamp": "2022-07-28T16:26:08.779+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@small transaction",
+      "author": {
+        "id": "297762979925983234",
+        "name": "queefbox",
+        "discriminator": "0000",
+        "nickname": "Focus- [1741291]",
+        "color": "#CCCC33",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "650089147423260675",
+            "name": "TW",
+            "color": "#CCCC33",
+            "position": 48
+          },
+          {
+            "id": "796044336777003068",
+            "name": "Wolverines",
+            "color": null,
+            "position": 44
+          },
+          {
+            "id": "650100703838208032",
+            "name": "Verified",
+            "color": "#C27C0E",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/297762979925983234/53ab94b925eb1b516dabdf525615c4e4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1295993557185855498",
+      "type": "20",
+      "timestamp": "2024-10-16T14:15:42.429+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hold up",
+          "url": null,
+          "timestamp": null,
+          "description": "I cannot currently access this channel, please grant me Read & Write permissions to allow commands to function here!",
+          "color": "#E43434",
+          "footer": {
+            "text": "Get an Admin to grant these permissions ASAP"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1295993556422627358",
+        "name": "investments",
+        "user": {
+          "id": "483440906918297621",
+          "name": "wallacethegod",
+          "discriminator": "0000",
+          "nickname": "Overseer \uD83E\uDD40",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/483440906918297621/077b62bea9ba2dd3fdef3e577e0eb7cb.png?size=512"
+        }
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1336450833403088916",
+      "type": "20",
+      "timestamp": "2025-02-05T05:38:28.739+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hold up",
+          "url": null,
+          "timestamp": null,
+          "description": "I cannot currently access this channel, please grant me Read & Write permissions to allow commands to function here!",
+          "color": "#E43434",
+          "footer": {
+            "text": "Get an Admin to grant these permissions ASAP"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1336450832614297650",
+        "name": "crime alerts",
+        "user": {
+          "id": "213331702418898944",
+          "name": "hvstle",
+          "discriminator": "0000",
+          "nickname": "Hvstle [2789096]",
+          "color": "#AA3B3B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1164556752688267344",
+              "name": "Mini Witch",
+              "color": null,
+              "position": 68
+            },
+            {
+              "id": "715258823438368829",
+              "name": "Council",
+              "color": "#AA3B3B",
+              "position": 61
+            },
+            {
+              "id": "850418809575440424",
+              "name": "LW Council",
+              "color": "#E74C3C",
+              "position": 58
+            },
+            {
+              "id": "1094880259763081226",
+              "name": "Recruiter",
+              "color": "#206694",
+              "position": 49
+            },
+            {
+              "id": "706620480794394674",
+              "name": "LW",
+              "color": "#CC6633",
+              "position": 46
+            },
+            {
+              "id": "796044336777003068",
+              "name": "Wolverines",
+              "color": null,
+              "position": 44
+            },
+            {
+              "id": "1160653956482084934",
+              "name": "Giveaways",
+              "color": "#2ECC71",
+              "position": 24
+            },
+            {
+              "id": "1181093688252833802",
+              "name": "OCs LW",
+              "color": "#71368A",
+              "position": 18
+            },
+            {
+              "id": "1167218077012865044",
+              "name": "Chain Watcher",
+              "color": "#71368A",
+              "position": 11
+            },
+            {
+              "id": "762171719900987423",
+              "name": "Giveaway Hoster",
+              "color": "#71368A",
+              "position": 10
+            },
+            {
+              "id": "650100703838208032",
+              "name": "Verified",
+              "color": "#C27C0E",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/213331702418898944/a_a1ae4928dbc33a9fca47ffacb6714aa4.gif?size=512"
+        }
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428000408302784572",
+      "type": "20",
+      "timestamp": "2025-10-15T20:43:48.304+08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1111949057481506906",
+        "name": "WolvNet",
+        "discriminator": "6469",
+        "nickname": "WolvNet",
+        "color": "#71368A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "894305807804530708",
+            "name": "WolverineBot",
+            "color": "#71368A",
+            "position": 70
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1111949057481506906/d8e8d7db894a3d6d68dd5eb20e250109.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hold up",
+          "url": null,
+          "timestamp": null,
+          "description": "I cannot currently access this channel, please grant me Read & Write permissions to allow commands to function here!",
+          "color": "#E43434",
+          "footer": {
+            "text": "Get an Admin to grant these permissions ASAP"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1428000407455535114",
+        "name": "investments",
+        "user": {
+          "id": "483279707647901698",
+          "name": "andreace",
+          "discriminator": "0000",
+          "nickname": "Rosarium [1191149]",
+          "color": "#CC6633",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "706620480794394674",
+              "name": "LW",
+              "color": "#CC6633",
+              "position": 46
+            },
+            {
+              "id": "796044336777003068",
+              "name": "Wolverines",
+              "color": null,
+              "position": 44
+            },
+            {
+              "id": "1160653956482084934",
+              "name": "Giveaways",
+              "color": "#2ECC71",
+              "position": 24
+            },
+            {
+              "id": "1160655343072841828",
+              "name": "Retals",
+              "color": "#71368A",
+              "position": 15
+            },
+            {
+              "id": "1160653146159321108",
+              "name": "Buster",
+              "color": "#71368A",
+              "position": 12
+            },
+            {
+              "id": "650100703838208032",
+              "name": "Verified",
+              "color": "#C27C0E",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/483279707647901698/eb02796dfc60f299c8337f26c56cbba8.png?size=512"
+        }
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 7
+}

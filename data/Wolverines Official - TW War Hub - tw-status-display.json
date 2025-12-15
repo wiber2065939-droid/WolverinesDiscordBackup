@@ -1,0 +1,48 @@
+{
+  "guild": {
+    "id": "650086260253130763",
+    "name": "Wolverines Official",
+    "iconUrl": "https://cdn.discordapp.com/icons/650086260253130763/248df5ee4812c5d6b78c6e10e4d9ebda.png?size=512"
+  },
+  "channel": {
+    "id": "1265564278518321193",
+    "type": "GuildTextChat",
+    "categoryId": "1243662204717240371",
+    "category": "TW War Hub",
+    "name": "tw-status-display",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-12-14T21:41:50.6253498+08:00",
+  "messages": [
+    {
+      "id": "1265566430577950732",
+      "type": "Default",
+      "timestamp": "2024-07-24T15:09:10.137+08:00",
+      "timestampEdited": "2025-12-14T21:33:11.77+08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Status** : Chilling - last updated : 2025-12-14 13:33\nNo war scheduled",
+      "author": {
+        "id": "1265564353378258994",
+        "name": "Spidey Bot",
+        "discriminator": "0000",
+        "nickname": "Spidey Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}
